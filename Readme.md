@@ -39,31 +39,50 @@ ___
 ___
 
 ### Getting Started
-1. Clone the repository
+Follow these steps to set up and run the URA FAQs LLM Chatbot API.
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
 ```bash
 git clone git@github.com:okellodaniel/URA_Faq_llm_Chatbot_API.git
 cd URA_Faq_llm_Chatbot_API
-
 ```
-2. Setup a virtual environment for the project
+
+### 2. Set Up a Virtual Environment
+
+Create a virtual environment for the project:
+
 ```bash
+# For Linux/Mac
 python3 -m venv venv
-source venv/bin/activate  # For Linux/Mac
-# or
-venv\Scripts\activate  # For Windows
+source venv/bin/activate
 
+# For Windows
+venv\Scripts\activate
 ```
- 
-3. Install requirements
+
+### 3. Install Project Dependencies
+
+Install all the required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
-4. Build the docker containers
+
+### 4. Build and Start Docker Containers
+
+Use Docker Compose to build and bring up the required containers:
+
 ```bash
 docker-compose up --build
-
 ```
-5. Create a .env file and populate it with the details below
+
+### 5. Configure Environment Variables
+
+Create a `.env` file in the root of the project directory and populate it with the following details:
+
 ```txt
 # Postgres Configuration
 POSTGRES_HOST=localhost
@@ -77,21 +96,54 @@ ELASTIC_URL_LOCAL=http://localhost:9200
 ELASTIC_URL=http://elasticsearch:9200
 ELASTIC_PORT=9200
 
-#Other Configuration
+# Other Configuration
 MODEL_NAME=multi-qa-MiniLM-L6-cos-v1
 INDEX_NAME=ura_faqs
 
-OPENAI_API_KEY=<Your-open-ai-key>
+# OpenAI API Key
+OPENAI_API_KEY=<Your-openai-key>
 
+# Azure Storage Configuration
 AZURE_STORAGE_CONN_STRING="<reachout-for-conn-string>"
 AZURE_STORAGE_CONTAINER="urafaqs"
 ```
-6. Install Postman
-- [Download](https://dl.pstmn.io/download/latest/)
-- Once installed, navigate to the misc folder of the project and import the `URA FAQS RAG Project.postman_collection.json` file into Postman to test the API endpoints.
 
+### 6. Install Postman for API Testing
+
+- [Download Postman](https://dl.pstmn.io/download/latest) and install it.
+- After installation, import the Postman collection:
+  - Navigate to the `misc` folder of the project.
+  - Import the `URA FAQS RAG Project.postman_collection.json` file into Postman.
+  - Use this collection to test the API endpoints.
+
+### 7. Run the API
+
+Once the Docker containers are up, the API will be running on port `8000`. You can access the API at:
+
+```
+http://localhost:8000
+```
+
+### 8. Access Grafana for Analytics
+
+Grafana will be available on port `3000`. To access it:
+
+- Open Grafana by navigating to `http://localhost:3000` in your browser.
+- Login with the default credentials:
+  - **Username**: `admin`
+  - **Password**: `admin`
+
+### 9. Configure Grafana Dashboard
+
+Once logged into Grafana:
+
+1. Navigate to the dashboard section.
+2. Click on **New Dashboard**.
+3. Proceed to **Import**.
+4. Use the template located in `/misc/URA Faqs Analytics Dashboard.json`.
+5. If the dashboard doesn't reflect properly, ensure that the data sources are correctly configured.
 ___
-### Code
+### Code Structure
 The application codebase resides in the URA_RAG folder. The application structure is as follows
 #### app
 The django Rest Framework application API. This contains
@@ -109,9 +161,185 @@ The django Rest Framework application API. This contains
 - [azure_storage_file_downloader.py](./scripts/azure_storage_file_downloader.py) - Script for downloading project data files into the `data` directory.
 - [azure_storage_uploader.py](./scripts/azure_storage_uploader.py) - Script for uploading project data files into an azure blob container.
 ___
-### Running Application
+### Endpoints
 
-The application functionality is currently set to run locally on (bare metal), starting with installing the application requirements, the neccessary files required, and running the dockerised application.
+The chatbot API presents the following endpoints
+#### Chat Creation Endpoint `POST` `/chats`
+
+This endpoint allows users to ask questions to the chatbot and receive answers in real-time.
+
+##### Request
+
+A user sends a `POST` request with the following payload structure:
+
+```json
+{
+  "message": "What is an instant TIN?",
+  "model_choice": "openai/gpt-4o",
+  "search_type": "hybrid"
+}
+```
+
+**Payload fields**: 
+- **message**: (String) The question to be passed to the chatbot.
+- **model_choice**: (String) The model to be used for generating the answer (`openai/gpt-4o`, `openai/gpt-3.5`, `openai/gpt-4o-mini`).
+- **search_type**: (String) The type of search used:
+  - `text` - Keyword-based search.
+  - `hybrid` - Combines text and vector search for enhanced relevance.
+  - `vector` - Vector-based semantic search.
+
+##### Response:
+
+```json
+{
+  "conversation_id": "d92ca4e3-c028-46d2-80aa-1d14a7303d96",
+  "answer": "An instant TIN (Tax Identification Number) refers to a TIN that is issued immediately upon application...",
+  "relevance": "RELEVANT",
+  "response_time": 1.386,
+  "cost": 0.00534,
+  "elapsed_time": 2.761
+}
+```
+
+**Response fields**:
+- **conversation_id**: (String) A unique identifier for the chat session.
+- **answer**: (String) The chatbot’s response to the user's question.
+- **relevance**: (String) Indicates whether the response is relevant (`RELEVANT` or `IRRELEVANT`).
+- **response_time**: (Float) Time in seconds taken to generate the response.
+- **cost**: (Float) The cost associated with processing the API request.
+- **elapsed_time**: (Float) Total time in seconds taken to process the request.
+
+#### Clear Chat History Endpoint `POST` `/clear-history`
+
+Clears the current chat session's history.
+
+##### Request
+
+A `POST` request is made with no body.
+
+##### Response:
+
+```json
+{
+  "message": "Chat history cleared successfully."
+}
+```
+
+**Response fields**:
+- **message**: (String) Confirmation that the chat history was cleared.
+
+#### Retrieve Conversation Endpoint `GET` `/conversations/{id}`
+
+Fetches the details of a specific conversation using its ID.
+
+##### Request
+
+A `GET` request is made to retrieve the conversation details by passing the conversation ID in the URL path.
+
+##### Response:
+
+```json
+{
+  "conversation_id": "abcd-1234-efgh-5678",
+  "messages": [
+    {
+      "question": "What is an instant TIN?",
+      "answer": "An instant TIN (Tax Identification Number)..."
+    }
+  ]
+}
+```
+
+**Response fields**:
+- **conversation_id**: (String) The unique identifier for the chat session.
+- **messages**: (Array) List of questions and answers from the conversation.
+
+#### Recent Conversations Endpoint `GET` `/recent-conversations`
+
+Retrieves a list of recent conversations.
+
+##### Request
+
+A `GET` request can include an optional query parameter `relevance` to filter conversations based on relevance.
+
+##### Response:
+
+```json
+[
+  {
+    "conversation_id": "abcd-1234-efgh-5678",
+    "relevance": "RELEVANT"
+  },
+  {
+    "conversation_id": "ijkl-5678-mnop-1234",
+    "relevance": "IRRELEVANT"
+  }
+]
+```
+
+**Response fields**:
+- **conversation_id**: (String) The unique identifier for each conversation.
+- **relevance**: (String) Indicates whether the response in the conversation was relevant.
+
+#### Feedback Submission Endpoint `POST` `/feedback`
+
+Allows users to submit feedback on the chatbot's performance for a specific conversation.
+
+##### Request
+
+A `POST` request is made with the following payload structure:
+
+```json
+{
+  "conversation_id": "abcd-1234-efgh-5678",
+  "feedback": "Great response!"
+}
+```
+
+**Payload fields**: 
+- **conversation_id**: (String) The ID of the conversation being reviewed.
+- **feedback**: (String) The user's feedback.
+
+##### Response:
+
+```json
+{
+  "message": "Feedback saved successfully."
+}
+```
+
+**Response fields**:
+- **message**: (String) Confirmation that the feedback was saved.
+
+#### Feedback Statistics Endpoint `GET` `/feedback-stats`
+
+Retrieves aggregated statistics of user feedback for the chatbot.
+
+##### Response:
+
+```json
+{
+  "total_feedbacks": 100,
+  "positive_feedbacks": 80,
+  "negative_feedbacks": 20
+}
+```
+
+**Response fields**:
+- **total_feedbacks**: (Integer) The total number of feedback submissions.
+- **positive_feedbacks**: (Integer) The number of positive feedback submissions.
+- **negative_feedbacks**: (Integer) The number of negative feedback submissions.
+
+### Logging
+
+The API is configured to log important events, such as when a chatbot request is received or an error occurs during processing. These logs help with debugging and performance monitoring.
+
+### Error Handling
+
+The API includes robust error handling, and common error responses include:
+
+- `400` - Bad Request: Invalid input or missing required fields.
+- `500` - Internal Server Error: An error occurred during processing.
 
 ___
 ### Retrieval evaluation
