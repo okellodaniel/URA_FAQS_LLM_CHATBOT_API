@@ -5783,3 +5783,1023 @@ Stacktrace:
 2024-10-08 09:47:13,710 - INFO - Extracted FAQ - Question: What is Mutual Recognition of Customs/Clearing Agents?, Section: Import & Export FAQs
 2024-10-08 09:47:13,710 - INFO - Extracted 56 FAQs from section: Import & Export FAQs
 2024-10-08 09:47:13,827 - INFO - WebDriver closed.
+2024-10-08 10:03:35,282 - INFO - Starting FAQ scraping process.
+2024-10-08 10:03:36,916 - INFO - WebDriver initialized successfully.
+2024-10-08 10:03:36,917 - INFO - Using Chrome version: 129.0.6668.89
+2024-10-08 10:03:36,917 - INFO - Using ChromeDriver version: 129.0.6668.89
+2024-10-08 10:03:36,918 - INFO - Opening URL: https://ura.go.ug/
+2024-10-08 10:03:44,839 - INFO - Clicking FAQ dropdown button.
+2024-10-08 10:03:45,501 - INFO - FAQ dropdown displayed successfully.
+2024-10-08 10:03:45,501 - INFO - Extracting FAQ section links from the dropdown.
+2024-10-08 10:03:45,728 - INFO - Found section: 'General FAQs' with URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:03:45,811 - INFO - Found section: 'Processes & Systems FAQs' with URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:03:45,972 - INFO - Found parent section: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/
+2024-10-08 10:03:46,859 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:03:46,884 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:03:46,965 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:03:46,994 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:03:47,021 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:03:47,209 - INFO - Found section: 'Import & Export FAQs' with URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:03:47,210 - INFO - Total FAQ sections found: 8
+2024-10-08 10:03:47,210 - INFO - Collected 8 FAQ URLs.
+2024-10-08 10:03:47,210 - INFO - Extracting FAQs from section: General FAQs - URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:03:53,824 - INFO - Extracted FAQ - Question: What is Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:03:53,836 - INFO - Extracted FAQ - Question: Is Voluntary Disclosure backed by law?, Section: General FAQs
+2024-10-08 10:03:53,847 - INFO - Extracted FAQ - Question: Why did URA introduce Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:03:53,859 - INFO - Extracted FAQ - Question: What benefits does Voluntary Disclosure extend to taxpayers and the public?, Section: General FAQs
+2024-10-08 10:03:53,870 - INFO - Extracted FAQ - Question: What is the process of applying for voluntary disclosure?, Section: General FAQs
+2024-10-08 10:03:53,891 - INFO - Extracted FAQ - Question: What is a Voluntary Disclosure Form (VDF?), Section: General FAQs
+2024-10-08 10:03:53,903 - INFO - Extracted FAQ - Question: What should one consider when applying for the Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:03:53,915 - INFO - Extracted FAQ - Question: Are there any exceptions to Voluntary disclosure?, Section: General FAQs
+2024-10-08 10:03:53,927 - INFO - Extracted FAQ - Question: What are capital gains?, Section: General FAQs
+2024-10-08 10:03:53,941 - INFO - Extracted FAQ - Question: What is a business asset?, Section: General FAQs
+2024-10-08 10:03:53,954 - INFO - Extracted FAQ - Question: When is a disposal for purposes of taxing capital gains?, Section: General FAQs
+2024-10-08 10:03:53,966 - INFO - Extracted FAQ - Question: When are capital gains taxed?, Section: General FAQs
+2024-10-08 10:03:53,978 - INFO - Extracted FAQ - Question: What is a capital loss?, Section: General FAQs
+2024-10-08 10:03:53,990 - INFO - Extracted FAQ - Question: What happens when a capital loss is made?, Section: General FAQs
+2024-10-08 10:03:54,002 - INFO - Extracted FAQ - Question: How is a capital gain/loss computed?, Section: General FAQs
+2024-10-08 10:03:54,017 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:03:54,035 - INFO - Extracted FAQ - Question: Is there a capital gains tax legislation in Uganda?, Section: General FAQs
+2024-10-08 10:03:54,048 - INFO - Extracted FAQ - Question: How are capital gains for an individual taxed?, Section: General FAQs
+2024-10-08 10:03:54,061 - INFO - Extracted FAQ - Question: How are capital gains for a corporate entity taxed?, Section: General FAQs
+2024-10-08 10:03:54,075 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is sold after 12 months or more from the date of purchase., Section: General FAQs
+2024-10-08 10:03:54,089 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is purchased and sold within 12 months from the date of purchase., Section: General FAQs
+2024-10-08 10:03:54,104 - INFO - Extracted FAQ - Question: Are there any gains or losses from the disposal of a business asset, sale of shares and commercial buildings that are not recognized for taxation purposes?, Section: General FAQs
+2024-10-08 10:03:54,119 - INFO - Extracted FAQ - Question: What is provisional income tax?, Section: General FAQs
+2024-10-08 10:03:54,134 - INFO - Extracted FAQ - Question: Isn’t provisional income tax a form of double taxation?, Section: General FAQs
+2024-10-08 10:03:54,152 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is more than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:03:54,187 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is less than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:03:54,209 - INFO - Extracted FAQ - Question: What is the importance of taxpayers paying provisional income tax, why not wait for the year of income to end?, Section: General FAQs
+2024-10-08 10:03:54,225 - INFO - Extracted FAQ - Question: Who pays provisional income tax?, Section: General FAQs
+2024-10-08 10:03:54,240 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:03:54,257 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:03:54,272 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for provisional income tax?, Section: General FAQs
+2024-10-08 10:03:54,287 - INFO - Extracted FAQ - Question: If a taxpayer filed a provisional income tax return, why file a final income tax return at the end of the year of income?, Section: General FAQs
+2024-10-08 10:03:54,301 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for final income tax?, Section: General FAQs
+2024-10-08 10:03:54,315 - INFO - Extracted FAQ - Question: How do I Declare instrument for stamp duty., Section: General FAQs
+2024-10-08 10:03:54,330 - INFO - Extracted FAQ - Question: How do I print the Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:03:54,343 - INFO - Extracted FAQ - Question: How do I get a Duplicate Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:03:54,356 - INFO - Extracted FAQ - Question: Who is an employer?, Section: General FAQs
+2024-10-08 10:03:54,371 - INFO - Extracted FAQ - Question: What are the Employment gains not included in chargeable income?, Section: General FAQs
+2024-10-08 10:03:54,386 - INFO - Extracted FAQ - Question: What is a Benefit In Kind?, Section: General FAQs
+2024-10-08 10:03:54,400 - INFO - Extracted FAQ - Question: When a benefit is deemed to have been provided by the employer?, Section: General FAQs
+2024-10-08 10:03:54,415 - INFO - Extracted FAQ - Question: What are the rates of PAYE?, Section: General FAQs
+2024-10-08 10:03:54,430 - INFO - Extracted FAQ - Question: How is Part-time allowance treated, Section: General FAQs
+2024-10-08 10:03:54,445 - INFO - Extracted FAQ - Question: What are the obligations of an Employer, Section: General FAQs
+2024-10-08 10:03:54,459 - INFO - Extracted FAQ - Question: What are the rights of an Employee?, Section: General FAQs
+2024-10-08 10:03:54,475 - INFO - Extracted FAQ - Question: What are the obligations of an Employee?, Section: General FAQs
+2024-10-08 10:03:54,492 - INFO - Extracted FAQ - Question: What happens if tax is defaulted?, Section: General FAQs
+2024-10-08 10:03:54,493 - INFO - Extracted 46 FAQs from section: General FAQs
+2024-10-08 10:03:54,494 - INFO - Extracting FAQs from section: Processes & Systems FAQs - URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:04:00,906 - INFO - Extracted FAQ - Question: Step I:, Section: Processes & Systems FAQs
+2024-10-08 10:04:00,928 - INFO - Extracted FAQ - Question: STEP II:, Section: Processes & Systems FAQs
+2024-10-08 10:04:00,938 - INFO - Extracted FAQ - Question: STEP III:, Section: Processes & Systems FAQs
+2024-10-08 10:04:00,948 - INFO - Extracted FAQ - Question: STEP IV:, Section: Processes & Systems FAQs
+2024-10-08 10:04:00,959 - INFO - Extracted FAQ - Question: STEP V:, Section: Processes & Systems FAQs
+2024-10-08 10:04:00,971 - INFO - Extracted FAQ - Question: STEP VI:, Section: Processes & Systems FAQs
+2024-10-08 10:04:00,984 - INFO - Extracted FAQ - Question: STEP VII:, Section: Processes & Systems FAQs
+2024-10-08 10:04:00,995 - INFO - Extracted FAQ - Question: STEP VIII:, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,006 - INFO - Extracted FAQ - Question: How do I apply for Learners/Provisional Driving Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,025 - INFO - Extracted FAQ - Question: How do I apply for Full Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,054 - INFO - Extracted FAQ - Question: How do I apply for Driving Permit Exchange? (Permits obtained outside Uganda), Section: Processes & Systems FAQs
+2024-10-08 10:04:01,088 - INFO - Extracted FAQ - Question: How do I Renew my permit?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,100 - INFO - Extracted FAQ - Question: How do I add a class on my permit (Extension of classes)?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,111 - INFO - Extracted FAQ - Question: How do I apply for Duplicate permit?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,124 - INFO - Extracted FAQ - Question: How do I validate my Motor vehicle Details (Get a new Registration Book)?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,136 - INFO - Extracted FAQ - Question: How do I apply for Duplicate registration books/number plates?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,149 - INFO - Extracted FAQ - Question: How do I apply for Change of ownership (Vehicle Transfer)?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,163 - INFO - Extracted FAQ - Question: How do I Re-register a motor vehicle (Change Plate Category?), Section: Processes & Systems FAQs
+2024-10-08 10:04:01,178 - INFO - Extracted FAQ - Question: How do I apply for Alteration of Particulars on Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,190 - INFO - Extracted FAQ - Question: How do I De-register a motor vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,210 - INFO - Extracted FAQ - Question: How do I transfer a vehicle if I can't trace the owner (Absentee Transferor)?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,226 - INFO - Extracted FAQ - Question: How do I search and certify Motor vehicle details?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,240 - INFO - Extracted FAQ - Question: How do I endorse third party interest (Caveat) on a Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,255 - INFO - Extracted FAQ - Question: How do I renew dealers Plate License?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,272 - INFO - Extracted FAQ - Question: How do I Renew an OTV License?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,286 - INFO - Extracted FAQ - Question: How do I get or Renew PMO and PSV License?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,308 - INFO - Extracted FAQ - Question: What is a return filling?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,335 - INFO - Extracted FAQ - Question: Who is eligible to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,352 - INFO - Extracted FAQ - Question: Who is not required to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,367 - INFO - Extracted FAQ - Question: What are the different due dates for filling the returns?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,385 - INFO - Extracted FAQ - Question: What is the difference between provisional and final return?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,401 - INFO - Extracted FAQ - Question: How do I file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,417 - INFO - Extracted FAQ - Question: How do I amend an already filed return?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,432 - INFO - Extracted FAQ - Question: How do I print a copy of a submitted return/ View return History?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,448 - INFO - Extracted FAQ - Question: How do deal with "Error code on return upload"?, Section: Processes & Systems FAQs
+2024-10-08 10:04:01,449 - INFO - Extracted 35 FAQs from section: Processes & Systems FAQs
+2024-10-08 10:04:01,450 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:04:08,878 - INFO - Extracted FAQ - Question: What is an assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:08,892 - INFO - Extracted FAQ - Question: Why would you make a payment registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:08,904 - INFO - Extracted FAQ - Question: Step by step on How to register a payment on the web portal, Section: Domestic Taxes FAQs
+2024-10-08 10:04:08,905 - INFO - Extracted 3 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:04:08,905 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:04:14,567 - INFO - Extracted FAQ - Question: HOW TO GET A TAX CLEARANCE CERTIFICATE, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,574 - INFO - Extracted FAQ - Question: , Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,586 - INFO - Extracted FAQ - Question: What is a tax calculator?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,597 - INFO - Extracted FAQ - Question: What is a TIN, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,609 - INFO - Extracted FAQ - Question: What is the importance of a TIN?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,623 - INFO - Extracted FAQ - Question: Identification Documents Required for Individuals, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,635 - INFO - Extracted FAQ - Question: How to Register on Line?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,647 - INFO - Extracted FAQ - Question: How do I apply for the new TIN/ E-Registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,659 - INFO - Extracted FAQ - Question: How do I Enable macros?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,670 - INFO - Extracted FAQ - Question: How do I print out a copy of the uploaded TIN application form?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,683 - INFO - Extracted FAQ - Question: How do I Register for Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,696 - INFO - Extracted FAQ - Question: Ammendment of TIN details, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,709 - INFO - Extracted FAQ - Question: Group TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,721 - INFO - Extracted FAQ - Question: Individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,736 - INFO - Extracted FAQ - Question: Instant TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,751 - INFO - Extracted FAQ - Question: Non-individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,765 - INFO - Extracted FAQ - Question: Stamp Duty Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,777 - INFO - Extracted FAQ - Question: VAT Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:04:14,778 - INFO - Extracted 18 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:04:14,779 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:04:20,338 - INFO - Extracted FAQ - Question: Who is a domestic tax agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:20,343 - INFO - Extracted FAQ - Question: How to Register As a Domestic  Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:04:20,349 - INFO - Extracted FAQ - Question: How to Appoint a Domestic Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:04:20,355 - INFO - Extracted FAQ - Question: How to Approve A Domestic Tax Agent Appointment, Section: Domestic Taxes FAQs
+2024-10-08 10:04:20,355 - INFO - Extracted 4 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:04:20,355 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:04:24,881 - INFO - Extracted FAQ - Question: What is Stamp Duty?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:24,886 - INFO - Extracted FAQ - Question: What is digital tracking solutions (DTS)?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:24,886 - INFO - Extracted 2 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:04:24,886 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:04:29,960 - INFO - Extracted FAQ - Question: What does Section  47A of the Tax Procedures Code Act provide?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:29,964 - INFO - Extracted FAQ - Question: Is Section 47A different from Sec. 40D of the TPC Act?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:29,970 - INFO - Extracted FAQ - Question: Who then qualifies for the Waiver of Interest and Penalty?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:29,975 - INFO - Extracted FAQ - Question: What taxes are covered by this waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:29,981 - INFO - Extracted FAQ - Question: How can I check for my outstanding balance?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:29,987 - INFO - Extracted FAQ - Question: How do I register a payment for the outstanding principal tax?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:29,992 - INFO - Extracted FAQ - Question: What should I do if I notice any variance in their ledger?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:29,997 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty require application?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,004 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty have a payment deadline?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,009 - INFO - Extracted FAQ - Question: How do I get my Interest and Penalties waived?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,015 - INFO - Extracted FAQ - Question: What happens if I can not clear all the tax liability due to URA as of 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,021 - INFO - Extracted FAQ - Question: If I paid my outstanding tax with penalties and interest in March, 2024, do I still qualify for the waiver of interest and penalty already paid?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,026 - INFO - Extracted FAQ - Question: In case I filed NIL or offset returns late and penalties were issued for the period in question, do I also qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,034 - INFO - Extracted FAQ - Question: Do I qualify for the waiver if liabilities relate to the period up to 30th June 2023 but were created after the period or are being created now?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,040 - INFO - Extracted FAQ - Question: Why weren’t my penalties and interest waived yet I paid my principal tax for the month of June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,046 - INFO - Extracted FAQ - Question: Does the waiver apply to interest and penalties that accrued after 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,052 - INFO - Extracted FAQ - Question: Do returns whose due date falls after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,058 - INFO - Extracted FAQ - Question: Do liabilities as at 30th June 2023, but whose returns are submitted after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,066 - INFO - Extracted FAQ - Question: Are there any penalties and waivers not covered by the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,072 - INFO - Extracted FAQ - Question: CLICK HERE TO DOWNLOAD QUICK FACTS ABOUT THE WAIVER OF INTEREST, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,078 - INFO - Extracted FAQ - Question: Who is a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,084 - INFO - Extracted FAQ - Question: What are the roles of a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,091 - INFO - Extracted FAQ - Question: Are Tax Agents required to register in order to act on behalf of taxpayers?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,097 - INFO - Extracted FAQ - Question: Who can apply for Tax Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,104 - INFO - Extracted FAQ - Question: What are the prescribed registration fees?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,110 - INFO - Extracted FAQ - Question: Who handles Tax Agents registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,116 - INFO - Extracted FAQ - Question: What is the mandate of TARC?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,122 - INFO - Extracted FAQ - Question: Composition of the TARC, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,128 - INFO - Extracted FAQ - Question: What are the requirements for Tax   Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,134 - INFO - Extracted FAQ - Question: What qualifications are required for one to be a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,143 - INFO - Extracted FAQ - Question: What is the validity period for a tax agent's certificate of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,149 - INFO - Extracted FAQ - Question: When should a registered Tax Agent apply for renewal of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,157 - INFO - Extracted FAQ - Question: How to register additional or substituted Tax Agents:, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,164 - INFO - Extracted FAQ - Question: When should the TARC be notified of any change in registered particulars of Tax Agents?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,172 - INFO - Extracted FAQ - Question: Is cancellation of tax agent registration possible?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,179 - INFO - Extracted FAQ - Question: How does one apply to be registered as a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,187 - INFO - Extracted FAQ - Question: BUSINESS FORMALISATION, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,194 - INFO - Extracted FAQ - Question: BUSINESS RECORDS, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,201 - INFO - Extracted FAQ - Question: HOW TO BECOME TAX COMPLIANT, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,210 - INFO - Extracted FAQ - Question: KEY FINANCIAL MANAGEMENT SKILLS FOR SMALL BUSINESSES, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,217 - INFO - Extracted FAQ - Question: STARTERPACK FOR NEWLY REGISTERED TAXPAYERS, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,226 - INFO - Extracted FAQ - Question: VOLUNTARY DISCLOSURE, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,233 - INFO - Extracted FAQ - Question: WITHHOLDING TAX, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,242 - INFO - Extracted FAQ - Question: MOTOR VEHICLE REGISTRATION, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,249 - INFO - Extracted FAQ - Question: ELCTRONIC FISCAL RECEIPTING AND INVOICING SOLUTION (EFRIS), Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,258 - INFO - Extracted FAQ - Question: Hotel and Accommodation Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,266 - INFO - Extracted FAQ - Question: Small Business Taxpayers, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,275 - INFO - Extracted FAQ - Question: Tourism Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,282 - INFO - Extracted FAQ - Question: Transport Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,291 - INFO - Extracted FAQ - Question: VAT Registered Category, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,298 - INFO - Extracted FAQ - Question: Wholesale and Retail Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,307 - INFO - Extracted FAQ - Question: How to object to an Income Tax assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,313 - INFO - Extracted FAQ - Question: How to object to a VAT assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,323 - INFO - Extracted FAQ - Question: Objections & Appeals, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,330 - INFO - Extracted FAQ - Question: Objections Q&A, Section: Domestic Taxes FAQs
+2024-10-08 10:04:30,330 - INFO - Extracted 55 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:04:30,331 - INFO - Extracting FAQs from section: Import & Export FAQs - URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:04:35,427 - INFO - Extracted FAQ - Question: What is Customs valuation?, Section: Import & Export FAQs
+2024-10-08 10:04:35,432 - INFO - Extracted FAQ - Question: Define customs value?, Section: Import & Export FAQs
+2024-10-08 10:04:35,438 - INFO - Extracted FAQ - Question: What are Ad valorem duties and taxes?, Section: Import & Export FAQs
+2024-10-08 10:04:35,443 - INFO - Extracted FAQ - Question: What are the different methods of valuation?, Section: Import & Export FAQs
+2024-10-08 10:04:35,448 - INFO - Extracted FAQ - Question: What is the composition of the customs value?, Section: Import & Export FAQs
+2024-10-08 10:04:35,454 - INFO - Extracted FAQ - Question: How are the import taxes calculated?, Section: Import & Export FAQs
+2024-10-08 10:04:35,459 - INFO - Extracted FAQ - Question: How do you determine customs duty of used vehicles?, Section: Import & Export FAQs
+2024-10-08 10:04:35,465 - INFO - Extracted FAQ - Question: Who is a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:04:35,472 - INFO - Extracted FAQ - Question: Why does URA work with clearing agents and not directly with the importer?, Section: Import & Export FAQs
+2024-10-08 10:04:35,478 - INFO - Extracted FAQ - Question: What is expected of a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:04:35,483 - INFO - Extracted FAQ - Question: How will the agent assist the owner of the goods?, Section: Import & Export FAQs
+2024-10-08 10:04:35,491 - INFO - Extracted FAQ - Question: How can an importer tell a fake clearing agent from a real one?, Section: Import & Export FAQs
+2024-10-08 10:04:35,496 - INFO - Extracted FAQ - Question: If it is my first time to import, where can I find an agent?, Section: Import & Export FAQs
+2024-10-08 10:04:35,502 - INFO - Extracted FAQ - Question: Do you need a license to be a Customs Agent?, Section: Import & Export FAQs
+2024-10-08 10:04:35,509 - INFO - Extracted FAQ - Question: Can anyone be given a license?, Section: Import & Export FAQs
+2024-10-08 10:04:35,515 - INFO - Extracted FAQ - Question: What is the validity period of a license?, Section: Import & Export FAQs
+2024-10-08 10:04:35,523 - INFO - Extracted FAQ - Question: Is the Licenser renewal process automatic?, Section: Import & Export FAQs
+2024-10-08 10:04:35,529 - INFO - Extracted FAQ - Question: Is there a fee payable for the license?, Section: Import & Export FAQs
+2024-10-08 10:04:35,536 - INFO - Extracted FAQ - Question: What will happen if an agent is involved in illicit activities?, Section: Import & Export FAQs
+2024-10-08 10:04:35,542 - INFO - Extracted FAQ - Question: What are the obligations of an agent to the Commissioner?, Section: Import & Export FAQs
+2024-10-08 10:04:35,548 - INFO - Extracted FAQ - Question: What are the obligations of the client to the agent?, Section: Import & Export FAQs
+2024-10-08 10:04:35,557 - INFO - Extracted FAQ - Question: What are the requirements and conditions for licensing of customs agents?, Section: Import & Export FAQs
+2024-10-08 10:04:35,563 - INFO - Extracted FAQ - Question: , Section: Import & Export FAQs
+2024-10-08 10:04:35,571 - INFO - Extracted FAQ - Question: What is cargo consolidation?, Section: Import & Export FAQs
+2024-10-08 10:04:35,577 - INFO - Extracted FAQ - Question: Who are cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:04:35,584 - INFO - Extracted FAQ - Question: Is there an association that brings together cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:04:35,591 - INFO - Extracted FAQ - Question: What is expected of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:04:35,597 - INFO - Extracted FAQ - Question: What is the role of the UCCA?, Section: Import & Export FAQs
+2024-10-08 10:04:35,605 - INFO - Extracted FAQ - Question: What measures have been put in place by UCCA to eliminate imposters, fraudsters, illegal fees, and any form of manipulation of groupage cargo importers?, Section: Import & Export FAQs
+2024-10-08 10:04:35,612 - INFO - Extracted FAQ - Question: What	are	the	benefits	of	cargo	consolidation	to	an	importer	or	trader?, Section: Import & Export FAQs
+2024-10-08 10:04:35,620 - INFO - Extracted FAQ - Question: What are the advantages of employing the services of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:04:35,627 - INFO - Extracted FAQ - Question: What are the risks of cargo groupage without the services of a formal cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:04:35,634 - INFO - Extracted FAQ - Question: What are the required import and export documents for cargo groupage?, Section: Import & Export FAQs
+2024-10-08 10:04:35,642 - INFO - Extracted FAQ - Question: What is the customs procedure for clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:04:35,650 - INFO - Extracted FAQ - Question: Are there platforms for resolving issues related to customs clearance of groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:04:35,661 - INFO - Extracted FAQ - Question: What fees are charged when clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:04:35,667 - INFO - Extracted FAQ - Question: Can an importer pay taxes for their cargo using the cargo consolidator’s Tax Identification	Number	(TIN)?, Section: Import & Export FAQs
+2024-10-08 10:04:35,677 - INFO - Extracted FAQ - Question: Can an importer make customs payments for their goods directly to the cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:04:35,684 - INFO - Extracted FAQ - Question: Which illegal activities should a cargo consolidator avoid?, Section: Import & Export FAQs
+2024-10-08 10:04:35,695 - INFO - Extracted FAQ - Question: What happens if a cargo consolidator is involved in illegal activities?, Section: Import & Export FAQs
+2024-10-08 10:04:35,705 - INFO - Extracted FAQ - Question: How do you differentiate between a genuine and a non-genuine consolidator?, Section: Import & Export FAQs
+2024-10-08 10:04:35,713 - INFO - Extracted FAQ - Question: What is the process of consolidating cargo?, Section: Import & Export FAQs
+2024-10-08 10:04:35,722 - INFO - Extracted FAQ - Question: What is a customs bonded warehouse?, Section: Import & Export FAQs
+2024-10-08 10:04:35,730 - INFO - Extracted FAQ - Question: Which items are prohibited from being warehoused?, Section: Import & Export FAQs
+2024-10-08 10:04:35,738 - INFO - Extracted FAQ - Question: What is Single Customs Territory?, Section: Import & Export FAQs
+2024-10-08 10:04:35,746 - INFO - Extracted FAQ - Question: What is SCT all about?, Section: Import & Export FAQs
+2024-10-08 10:04:35,753 - INFO - Extracted FAQ - Question: What are the features of SCT?, Section: Import & Export FAQs
+2024-10-08 10:04:35,761 - INFO - Extracted FAQ - Question: When was the SCT implemented?, Section: Import & Export FAQs
+2024-10-08 10:04:35,770 - INFO - Extracted FAQ - Question: What is the Current status of the SCT implementation?, Section: Import & Export FAQs
+2024-10-08 10:04:35,777 - INFO - Extracted FAQ - Question: What are the benefits from the SCT?, Section: Import & Export FAQs
+2024-10-08 10:04:35,785 - INFO - Extracted FAQ - Question: Which Countries are involved in the SCT?, Section: Import & Export FAQs
+2024-10-08 10:04:35,793 - INFO - Extracted FAQ - Question: Will importing/destination Partner states deploy officials at the first points of entry?, Section: Import & Export FAQs
+2024-10-08 10:04:35,801 - INFO - Extracted FAQ - Question: Who are the key stakeholders in the SCT clearance Processes?, Section: Import & Export FAQs
+2024-10-08 10:04:35,812 - INFO - Extracted FAQ - Question: Are there any requirements for stakeholder to transact under the SCT?, Section: Import & Export FAQs
+2024-10-08 10:04:35,823 - INFO - Extracted FAQ - Question: Shall the Customs/ Clearing Agents involved in the clearance process be required to relocate to Mombasa and/or Dar es Salaam as first points of entry respectively?, Section: Import & Export FAQs
+2024-10-08 10:04:35,831 - INFO - Extracted FAQ - Question: What is Mutual Recognition of Customs/Clearing Agents?, Section: Import & Export FAQs
+2024-10-08 10:04:35,831 - INFO - Extracted 56 FAQs from section: Import & Export FAQs
+2024-10-08 10:04:35,948 - INFO - WebDriver closed.
+2024-10-08 10:29:20,350 - INFO - Starting FAQ scraping process.
+2024-10-08 10:29:22,313 - INFO - WebDriver initialized successfully.
+2024-10-08 10:29:22,314 - INFO - Using Chrome version: 129.0.6668.89
+2024-10-08 10:29:22,318 - INFO - Using ChromeDriver version: 129.0.6668.89
+2024-10-08 10:29:22,318 - INFO - Opening URL: https://ura.go.ug/
+2024-10-08 10:29:28,277 - INFO - Clicking FAQ dropdown button.
+2024-10-08 10:29:28,797 - INFO - FAQ dropdown displayed successfully.
+2024-10-08 10:29:28,798 - INFO - Extracting FAQ section links from the dropdown.
+2024-10-08 10:29:29,004 - INFO - Found section: 'General FAQs' with URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:29:29,070 - INFO - Found section: 'Processes & Systems FAQs' with URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:29:29,178 - INFO - Found parent section: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/
+2024-10-08 10:29:29,294 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:29:29,330 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:29:29,371 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:29:29,407 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:29:29,427 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:29:29,523 - INFO - Found section: 'Import & Export FAQs' with URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:29:29,524 - INFO - Total FAQ sections found: 8
+2024-10-08 10:29:29,524 - INFO - Collected 8 FAQ URLs.
+2024-10-08 10:29:29,524 - INFO - Extracting FAQs from section: General FAQs - URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:29:36,429 - INFO - Extracted FAQ - Question: What is Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:29:36,441 - INFO - Extracted FAQ - Question: Is Voluntary Disclosure backed by law?, Section: General FAQs
+2024-10-08 10:29:36,454 - INFO - Extracted FAQ - Question: Why did URA introduce Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:29:36,465 - INFO - Extracted FAQ - Question: What benefits does Voluntary Disclosure extend to taxpayers and the public?, Section: General FAQs
+2024-10-08 10:29:36,477 - INFO - Extracted FAQ - Question: What is the process of applying for voluntary disclosure?, Section: General FAQs
+2024-10-08 10:29:36,487 - INFO - Extracted FAQ - Question: What is a Voluntary Disclosure Form (VDF?), Section: General FAQs
+2024-10-08 10:29:36,493 - INFO - Extracted FAQ - Question: What should one consider when applying for the Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:29:36,502 - INFO - Extracted FAQ - Question: Are there any exceptions to Voluntary disclosure?, Section: General FAQs
+2024-10-08 10:29:36,514 - INFO - Extracted FAQ - Question: What are capital gains?, Section: General FAQs
+2024-10-08 10:29:36,536 - INFO - Extracted FAQ - Question: What is a business asset?, Section: General FAQs
+2024-10-08 10:29:36,551 - INFO - Extracted FAQ - Question: When is a disposal for purposes of taxing capital gains?, Section: General FAQs
+2024-10-08 10:29:36,567 - INFO - Extracted FAQ - Question: When are capital gains taxed?, Section: General FAQs
+2024-10-08 10:29:36,584 - INFO - Extracted FAQ - Question: What is a capital loss?, Section: General FAQs
+2024-10-08 10:29:36,599 - INFO - Extracted FAQ - Question: What happens when a capital loss is made?, Section: General FAQs
+2024-10-08 10:29:36,621 - INFO - Extracted FAQ - Question: How is a capital gain/loss computed?, Section: General FAQs
+2024-10-08 10:29:36,635 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:29:36,649 - INFO - Extracted FAQ - Question: Is there a capital gains tax legislation in Uganda?, Section: General FAQs
+2024-10-08 10:29:36,656 - INFO - Extracted FAQ - Question: How are capital gains for an individual taxed?, Section: General FAQs
+2024-10-08 10:29:36,668 - INFO - Extracted FAQ - Question: How are capital gains for a corporate entity taxed?, Section: General FAQs
+2024-10-08 10:29:36,683 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is sold after 12 months or more from the date of purchase., Section: General FAQs
+2024-10-08 10:29:36,699 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is purchased and sold within 12 months from the date of purchase., Section: General FAQs
+2024-10-08 10:29:36,715 - INFO - Extracted FAQ - Question: Are there any gains or losses from the disposal of a business asset, sale of shares and commercial buildings that are not recognized for taxation purposes?, Section: General FAQs
+2024-10-08 10:29:36,730 - INFO - Extracted FAQ - Question: What is provisional income tax?, Section: General FAQs
+2024-10-08 10:29:36,751 - INFO - Extracted FAQ - Question: Isn’t provisional income tax a form of double taxation?, Section: General FAQs
+2024-10-08 10:29:36,773 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is more than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:29:36,794 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is less than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:29:36,811 - INFO - Extracted FAQ - Question: What is the importance of taxpayers paying provisional income tax, why not wait for the year of income to end?, Section: General FAQs
+2024-10-08 10:29:36,827 - INFO - Extracted FAQ - Question: Who pays provisional income tax?, Section: General FAQs
+2024-10-08 10:29:36,843 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:29:36,859 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:29:36,880 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for provisional income tax?, Section: General FAQs
+2024-10-08 10:29:36,896 - INFO - Extracted FAQ - Question: If a taxpayer filed a provisional income tax return, why file a final income tax return at the end of the year of income?, Section: General FAQs
+2024-10-08 10:29:36,912 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for final income tax?, Section: General FAQs
+2024-10-08 10:29:36,928 - INFO - Extracted FAQ - Question: How do I Declare instrument for stamp duty., Section: General FAQs
+2024-10-08 10:29:36,945 - INFO - Extracted FAQ - Question: How do I print the Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:29:36,960 - INFO - Extracted FAQ - Question: How do I get a Duplicate Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:29:36,977 - INFO - Extracted FAQ - Question: Who is an employer?, Section: General FAQs
+2024-10-08 10:29:36,993 - INFO - Extracted FAQ - Question: What are the Employment gains not included in chargeable income?, Section: General FAQs
+2024-10-08 10:29:37,011 - INFO - Extracted FAQ - Question: What is a Benefit In Kind?, Section: General FAQs
+2024-10-08 10:29:37,029 - INFO - Extracted FAQ - Question: When a benefit is deemed to have been provided by the employer?, Section: General FAQs
+2024-10-08 10:29:37,047 - INFO - Extracted FAQ - Question: What are the rates of PAYE?, Section: General FAQs
+2024-10-08 10:29:37,065 - INFO - Extracted FAQ - Question: How is Part-time allowance treated, Section: General FAQs
+2024-10-08 10:29:37,083 - INFO - Extracted FAQ - Question: What are the obligations of an Employer, Section: General FAQs
+2024-10-08 10:29:37,100 - INFO - Extracted FAQ - Question: What are the rights of an Employee?, Section: General FAQs
+2024-10-08 10:29:37,117 - INFO - Extracted FAQ - Question: What are the obligations of an Employee?, Section: General FAQs
+2024-10-08 10:29:37,136 - INFO - Extracted FAQ - Question: What happens if tax is defaulted?, Section: General FAQs
+2024-10-08 10:29:37,137 - INFO - Extracted 46 FAQs from section: General FAQs
+2024-10-08 10:29:37,137 - INFO - Extracting FAQs from section: Processes & Systems FAQs - URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:29:43,389 - INFO - Extracted FAQ - Question: Step I:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,395 - INFO - Extracted FAQ - Question: STEP II:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,401 - INFO - Extracted FAQ - Question: STEP III:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,407 - INFO - Extracted FAQ - Question: STEP IV:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,413 - INFO - Extracted FAQ - Question: STEP V:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,419 - INFO - Extracted FAQ - Question: STEP VI:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,425 - INFO - Extracted FAQ - Question: STEP VII:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,435 - INFO - Extracted FAQ - Question: STEP VIII:, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,447 - INFO - Extracted FAQ - Question: How do I apply for Learners/Provisional Driving Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,455 - INFO - Extracted FAQ - Question: How do I apply for Full Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,462 - INFO - Extracted FAQ - Question: How do I apply for Driving Permit Exchange? (Permits obtained outside Uganda), Section: Processes & Systems FAQs
+2024-10-08 10:29:43,469 - INFO - Extracted FAQ - Question: How do I Renew my permit?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,475 - INFO - Extracted FAQ - Question: How do I add a class on my permit (Extension of classes)?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,481 - INFO - Extracted FAQ - Question: How do I apply for Duplicate permit?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,487 - INFO - Extracted FAQ - Question: How do I validate my Motor vehicle Details (Get a new Registration Book)?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,494 - INFO - Extracted FAQ - Question: How do I apply for Duplicate registration books/number plates?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,502 - INFO - Extracted FAQ - Question: How do I apply for Change of ownership (Vehicle Transfer)?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,509 - INFO - Extracted FAQ - Question: How do I Re-register a motor vehicle (Change Plate Category?), Section: Processes & Systems FAQs
+2024-10-08 10:29:43,516 - INFO - Extracted FAQ - Question: How do I apply for Alteration of Particulars on Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,522 - INFO - Extracted FAQ - Question: How do I De-register a motor vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,532 - INFO - Extracted FAQ - Question: How do I transfer a vehicle if I can't trace the owner (Absentee Transferor)?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,539 - INFO - Extracted FAQ - Question: How do I search and certify Motor vehicle details?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,549 - INFO - Extracted FAQ - Question: How do I endorse third party interest (Caveat) on a Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,555 - INFO - Extracted FAQ - Question: How do I renew dealers Plate License?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,565 - INFO - Extracted FAQ - Question: How do I Renew an OTV License?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,573 - INFO - Extracted FAQ - Question: How do I get or Renew PMO and PSV License?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,583 - INFO - Extracted FAQ - Question: What is a return filling?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,590 - INFO - Extracted FAQ - Question: Who is eligible to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,600 - INFO - Extracted FAQ - Question: Who is not required to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,608 - INFO - Extracted FAQ - Question: What are the different due dates for filling the returns?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,617 - INFO - Extracted FAQ - Question: What is the difference between provisional and final return?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,627 - INFO - Extracted FAQ - Question: How do I file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,638 - INFO - Extracted FAQ - Question: How do I amend an already filed return?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,651 - INFO - Extracted FAQ - Question: How do I print a copy of a submitted return/ View return History?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,660 - INFO - Extracted FAQ - Question: How do deal with "Error code on return upload"?, Section: Processes & Systems FAQs
+2024-10-08 10:29:43,661 - INFO - Extracted 35 FAQs from section: Processes & Systems FAQs
+2024-10-08 10:29:43,661 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:29:50,104 - INFO - Extracted FAQ - Question: What is an assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:50,122 - INFO - Extracted FAQ - Question: Why would you make a payment registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:50,142 - INFO - Extracted FAQ - Question: Step by step on How to register a payment on the web portal, Section: Domestic Taxes FAQs
+2024-10-08 10:29:50,143 - INFO - Extracted 3 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:29:50,143 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:29:56,639 - INFO - Extracted FAQ - Question: HOW TO GET A TAX CLEARANCE CERTIFICATE, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,648 - INFO - Extracted FAQ - Question: , Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,657 - INFO - Extracted FAQ - Question: What is a tax calculator?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,673 - INFO - Extracted FAQ - Question: What is a TIN, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,688 - INFO - Extracted FAQ - Question: What is the importance of a TIN?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,699 - INFO - Extracted FAQ - Question: Identification Documents Required for Individuals, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,708 - INFO - Extracted FAQ - Question: How to Register on Line?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,726 - INFO - Extracted FAQ - Question: How do I apply for the new TIN/ E-Registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,740 - INFO - Extracted FAQ - Question: How do I Enable macros?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,751 - INFO - Extracted FAQ - Question: How do I print out a copy of the uploaded TIN application form?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,763 - INFO - Extracted FAQ - Question: How do I Register for Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,776 - INFO - Extracted FAQ - Question: Ammendment of TIN details, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,789 - INFO - Extracted FAQ - Question: Group TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,804 - INFO - Extracted FAQ - Question: Individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,816 - INFO - Extracted FAQ - Question: Instant TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,829 - INFO - Extracted FAQ - Question: Non-individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,849 - INFO - Extracted FAQ - Question: Stamp Duty Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,861 - INFO - Extracted FAQ - Question: VAT Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:29:56,862 - INFO - Extracted 18 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:29:56,862 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:30:02,427 - INFO - Extracted FAQ - Question: Who is a domestic tax agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:02,433 - INFO - Extracted FAQ - Question: How to Register As a Domestic  Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:30:02,439 - INFO - Extracted FAQ - Question: How to Appoint a Domestic Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:30:02,445 - INFO - Extracted FAQ - Question: How to Approve A Domestic Tax Agent Appointment, Section: Domestic Taxes FAQs
+2024-10-08 10:30:02,446 - INFO - Extracted 4 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:30:02,446 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:30:07,212 - INFO - Extracted FAQ - Question: What is Stamp Duty?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:07,216 - INFO - Extracted FAQ - Question: What is digital tracking solutions (DTS)?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:07,217 - INFO - Extracted 2 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:30:07,217 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:30:11,876 - INFO - Extracted FAQ - Question: What does Section  47A of the Tax Procedures Code Act provide?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,881 - INFO - Extracted FAQ - Question: Is Section 47A different from Sec. 40D of the TPC Act?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,886 - INFO - Extracted FAQ - Question: Who then qualifies for the Waiver of Interest and Penalty?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,891 - INFO - Extracted FAQ - Question: What taxes are covered by this waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,896 - INFO - Extracted FAQ - Question: How can I check for my outstanding balance?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,901 - INFO - Extracted FAQ - Question: How do I register a payment for the outstanding principal tax?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,906 - INFO - Extracted FAQ - Question: What should I do if I notice any variance in their ledger?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,911 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty require application?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,916 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty have a payment deadline?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,921 - INFO - Extracted FAQ - Question: How do I get my Interest and Penalties waived?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,927 - INFO - Extracted FAQ - Question: What happens if I can not clear all the tax liability due to URA as of 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,932 - INFO - Extracted FAQ - Question: If I paid my outstanding tax with penalties and interest in March, 2024, do I still qualify for the waiver of interest and penalty already paid?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,938 - INFO - Extracted FAQ - Question: In case I filed NIL or offset returns late and penalties were issued for the period in question, do I also qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,947 - INFO - Extracted FAQ - Question: Do I qualify for the waiver if liabilities relate to the period up to 30th June 2023 but were created after the period or are being created now?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,953 - INFO - Extracted FAQ - Question: Why weren’t my penalties and interest waived yet I paid my principal tax for the month of June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,961 - INFO - Extracted FAQ - Question: Does the waiver apply to interest and penalties that accrued after 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,968 - INFO - Extracted FAQ - Question: Do returns whose due date falls after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,974 - INFO - Extracted FAQ - Question: Do liabilities as at 30th June 2023, but whose returns are submitted after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,981 - INFO - Extracted FAQ - Question: Are there any penalties and waivers not covered by the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,987 - INFO - Extracted FAQ - Question: CLICK HERE TO DOWNLOAD QUICK FACTS ABOUT THE WAIVER OF INTEREST, Section: Domestic Taxes FAQs
+2024-10-08 10:30:11,996 - INFO - Extracted FAQ - Question: Who is a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,001 - INFO - Extracted FAQ - Question: What are the roles of a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,008 - INFO - Extracted FAQ - Question: Are Tax Agents required to register in order to act on behalf of taxpayers?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,014 - INFO - Extracted FAQ - Question: Who can apply for Tax Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,022 - INFO - Extracted FAQ - Question: What are the prescribed registration fees?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,028 - INFO - Extracted FAQ - Question: Who handles Tax Agents registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,035 - INFO - Extracted FAQ - Question: What is the mandate of TARC?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,042 - INFO - Extracted FAQ - Question: Composition of the TARC, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,050 - INFO - Extracted FAQ - Question: What are the requirements for Tax   Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,058 - INFO - Extracted FAQ - Question: What qualifications are required for one to be a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,065 - INFO - Extracted FAQ - Question: What is the validity period for a tax agent's certificate of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,076 - INFO - Extracted FAQ - Question: When should a registered Tax Agent apply for renewal of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,083 - INFO - Extracted FAQ - Question: How to register additional or substituted Tax Agents:, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,089 - INFO - Extracted FAQ - Question: When should the TARC be notified of any change in registered particulars of Tax Agents?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,098 - INFO - Extracted FAQ - Question: Is cancellation of tax agent registration possible?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,104 - INFO - Extracted FAQ - Question: How does one apply to be registered as a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,116 - INFO - Extracted FAQ - Question: BUSINESS FORMALISATION, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,122 - INFO - Extracted FAQ - Question: BUSINESS RECORDS, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,130 - INFO - Extracted FAQ - Question: HOW TO BECOME TAX COMPLIANT, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,138 - INFO - Extracted FAQ - Question: KEY FINANCIAL MANAGEMENT SKILLS FOR SMALL BUSINESSES, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,145 - INFO - Extracted FAQ - Question: STARTERPACK FOR NEWLY REGISTERED TAXPAYERS, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,151 - INFO - Extracted FAQ - Question: VOLUNTARY DISCLOSURE, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,158 - INFO - Extracted FAQ - Question: WITHHOLDING TAX, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,165 - INFO - Extracted FAQ - Question: MOTOR VEHICLE REGISTRATION, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,172 - INFO - Extracted FAQ - Question: ELCTRONIC FISCAL RECEIPTING AND INVOICING SOLUTION (EFRIS), Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,181 - INFO - Extracted FAQ - Question: Hotel and Accommodation Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,188 - INFO - Extracted FAQ - Question: Small Business Taxpayers, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,196 - INFO - Extracted FAQ - Question: Tourism Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,202 - INFO - Extracted FAQ - Question: Transport Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,210 - INFO - Extracted FAQ - Question: VAT Registered Category, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,217 - INFO - Extracted FAQ - Question: Wholesale and Retail Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,225 - INFO - Extracted FAQ - Question: How to object to an Income Tax assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,233 - INFO - Extracted FAQ - Question: How to object to a VAT assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,243 - INFO - Extracted FAQ - Question: Objections & Appeals, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,250 - INFO - Extracted FAQ - Question: Objections Q&A, Section: Domestic Taxes FAQs
+2024-10-08 10:30:12,250 - INFO - Extracted 55 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:30:12,251 - INFO - Extracting FAQs from section: Import & Export FAQs - URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:30:17,199 - INFO - Extracted FAQ - Question: What is Customs valuation?, Section: Import & Export FAQs
+2024-10-08 10:30:17,205 - INFO - Extracted FAQ - Question: Define customs value?, Section: Import & Export FAQs
+2024-10-08 10:30:17,211 - INFO - Extracted FAQ - Question: What are Ad valorem duties and taxes?, Section: Import & Export FAQs
+2024-10-08 10:30:17,217 - INFO - Extracted FAQ - Question: What are the different methods of valuation?, Section: Import & Export FAQs
+2024-10-08 10:30:17,223 - INFO - Extracted FAQ - Question: What is the composition of the customs value?, Section: Import & Export FAQs
+2024-10-08 10:30:17,232 - INFO - Extracted FAQ - Question: How are the import taxes calculated?, Section: Import & Export FAQs
+2024-10-08 10:30:17,237 - INFO - Extracted FAQ - Question: How do you determine customs duty of used vehicles?, Section: Import & Export FAQs
+2024-10-08 10:30:17,246 - INFO - Extracted FAQ - Question: Who is a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:30:17,252 - INFO - Extracted FAQ - Question: Why does URA work with clearing agents and not directly with the importer?, Section: Import & Export FAQs
+2024-10-08 10:30:17,261 - INFO - Extracted FAQ - Question: What is expected of a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:30:17,266 - INFO - Extracted FAQ - Question: How will the agent assist the owner of the goods?, Section: Import & Export FAQs
+2024-10-08 10:30:17,272 - INFO - Extracted FAQ - Question: How can an importer tell a fake clearing agent from a real one?, Section: Import & Export FAQs
+2024-10-08 10:30:17,281 - INFO - Extracted FAQ - Question: If it is my first time to import, where can I find an agent?, Section: Import & Export FAQs
+2024-10-08 10:30:17,287 - INFO - Extracted FAQ - Question: Do you need a license to be a Customs Agent?, Section: Import & Export FAQs
+2024-10-08 10:30:17,296 - INFO - Extracted FAQ - Question: Can anyone be given a license?, Section: Import & Export FAQs
+2024-10-08 10:30:17,302 - INFO - Extracted FAQ - Question: What is the validity period of a license?, Section: Import & Export FAQs
+2024-10-08 10:30:17,307 - INFO - Extracted FAQ - Question: Is the Licenser renewal process automatic?, Section: Import & Export FAQs
+2024-10-08 10:30:17,313 - INFO - Extracted FAQ - Question: Is there a fee payable for the license?, Section: Import & Export FAQs
+2024-10-08 10:30:17,319 - INFO - Extracted FAQ - Question: What will happen if an agent is involved in illicit activities?, Section: Import & Export FAQs
+2024-10-08 10:30:17,325 - INFO - Extracted FAQ - Question: What are the obligations of an agent to the Commissioner?, Section: Import & Export FAQs
+2024-10-08 10:30:17,331 - INFO - Extracted FAQ - Question: What are the obligations of the client to the agent?, Section: Import & Export FAQs
+2024-10-08 10:30:17,339 - INFO - Extracted FAQ - Question: What are the requirements and conditions for licensing of customs agents?, Section: Import & Export FAQs
+2024-10-08 10:30:17,346 - INFO - Extracted FAQ - Question: , Section: Import & Export FAQs
+2024-10-08 10:30:17,354 - INFO - Extracted FAQ - Question: What is cargo consolidation?, Section: Import & Export FAQs
+2024-10-08 10:30:17,364 - INFO - Extracted FAQ - Question: Who are cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:30:17,378 - INFO - Extracted FAQ - Question: Is there an association that brings together cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:30:17,398 - INFO - Extracted FAQ - Question: What is expected of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:30:17,410 - INFO - Extracted FAQ - Question: What is the role of the UCCA?, Section: Import & Export FAQs
+2024-10-08 10:30:17,419 - INFO - Extracted FAQ - Question: What measures have been put in place by UCCA to eliminate imposters, fraudsters, illegal fees, and any form of manipulation of groupage cargo importers?, Section: Import & Export FAQs
+2024-10-08 10:30:17,430 - INFO - Extracted FAQ - Question: What	are	the	benefits	of	cargo	consolidation	to	an	importer	or	trader?, Section: Import & Export FAQs
+2024-10-08 10:30:17,441 - INFO - Extracted FAQ - Question: What are the advantages of employing the services of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:30:17,451 - INFO - Extracted FAQ - Question: What are the risks of cargo groupage without the services of a formal cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:30:17,461 - INFO - Extracted FAQ - Question: What are the required import and export documents for cargo groupage?, Section: Import & Export FAQs
+2024-10-08 10:30:17,470 - INFO - Extracted FAQ - Question: What is the customs procedure for clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:30:17,481 - INFO - Extracted FAQ - Question: Are there platforms for resolving issues related to customs clearance of groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:30:17,490 - INFO - Extracted FAQ - Question: What fees are charged when clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:30:17,501 - INFO - Extracted FAQ - Question: Can an importer pay taxes for their cargo using the cargo consolidator’s Tax Identification	Number	(TIN)?, Section: Import & Export FAQs
+2024-10-08 10:30:17,510 - INFO - Extracted FAQ - Question: Can an importer make customs payments for their goods directly to the cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:30:17,519 - INFO - Extracted FAQ - Question: Which illegal activities should a cargo consolidator avoid?, Section: Import & Export FAQs
+2024-10-08 10:30:17,530 - INFO - Extracted FAQ - Question: What happens if a cargo consolidator is involved in illegal activities?, Section: Import & Export FAQs
+2024-10-08 10:30:17,542 - INFO - Extracted FAQ - Question: How do you differentiate between a genuine and a non-genuine consolidator?, Section: Import & Export FAQs
+2024-10-08 10:30:17,550 - INFO - Extracted FAQ - Question: What is the process of consolidating cargo?, Section: Import & Export FAQs
+2024-10-08 10:30:17,560 - INFO - Extracted FAQ - Question: What is a customs bonded warehouse?, Section: Import & Export FAQs
+2024-10-08 10:30:17,567 - INFO - Extracted FAQ - Question: Which items are prohibited from being warehoused?, Section: Import & Export FAQs
+2024-10-08 10:30:17,576 - INFO - Extracted FAQ - Question: What is Single Customs Territory?, Section: Import & Export FAQs
+2024-10-08 10:30:17,583 - INFO - Extracted FAQ - Question: What is SCT all about?, Section: Import & Export FAQs
+2024-10-08 10:30:17,593 - INFO - Extracted FAQ - Question: What are the features of SCT?, Section: Import & Export FAQs
+2024-10-08 10:30:17,600 - INFO - Extracted FAQ - Question: When was the SCT implemented?, Section: Import & Export FAQs
+2024-10-08 10:30:17,609 - INFO - Extracted FAQ - Question: What is the Current status of the SCT implementation?, Section: Import & Export FAQs
+2024-10-08 10:30:17,616 - INFO - Extracted FAQ - Question: What are the benefits from the SCT?, Section: Import & Export FAQs
+2024-10-08 10:30:17,626 - INFO - Extracted FAQ - Question: Which Countries are involved in the SCT?, Section: Import & Export FAQs
+2024-10-08 10:30:17,633 - INFO - Extracted FAQ - Question: Will importing/destination Partner states deploy officials at the first points of entry?, Section: Import & Export FAQs
+2024-10-08 10:30:17,642 - INFO - Extracted FAQ - Question: Who are the key stakeholders in the SCT clearance Processes?, Section: Import & Export FAQs
+2024-10-08 10:30:17,653 - INFO - Extracted FAQ - Question: Are there any requirements for stakeholder to transact under the SCT?, Section: Import & Export FAQs
+2024-10-08 10:30:17,663 - INFO - Extracted FAQ - Question: Shall the Customs/ Clearing Agents involved in the clearance process be required to relocate to Mombasa and/or Dar es Salaam as first points of entry respectively?, Section: Import & Export FAQs
+2024-10-08 10:30:17,672 - INFO - Extracted FAQ - Question: What is Mutual Recognition of Customs/Clearing Agents?, Section: Import & Export FAQs
+2024-10-08 10:30:17,672 - INFO - Extracted 56 FAQs from section: Import & Export FAQs
+2024-10-08 10:30:17,787 - INFO - WebDriver closed.
+2024-10-08 10:47:42,860 - INFO - Starting FAQ scraping process.
+2024-10-08 10:47:44,573 - INFO - WebDriver initialized successfully.
+2024-10-08 10:47:44,574 - INFO - Using Chrome version: 129.0.6668.89
+2024-10-08 10:47:44,574 - INFO - Using ChromeDriver version: 129.0.6668.89
+2024-10-08 10:47:44,574 - INFO - Opening URL: https://ura.go.ug/
+2024-10-08 10:47:50,536 - INFO - Clicking FAQ dropdown button.
+2024-10-08 10:47:51,047 - INFO - FAQ dropdown displayed successfully.
+2024-10-08 10:47:51,048 - INFO - Extracting FAQ section links from the dropdown.
+2024-10-08 10:47:51,264 - INFO - Found section: 'General FAQs' with URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:47:51,363 - INFO - Found section: 'Processes & Systems FAQs' with URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:47:51,516 - INFO - Found parent section: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/
+2024-10-08 10:47:51,597 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:47:51,615 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:47:51,630 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:47:51,647 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:47:51,676 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:47:51,850 - INFO - Found section: 'Import & Export FAQs' with URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:47:51,851 - INFO - Total FAQ sections found: 8
+2024-10-08 10:47:51,853 - INFO - Collected 8 FAQ URLs.
+2024-10-08 10:47:51,854 - INFO - Extracting FAQs from section: General FAQs - URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:47:58,635 - INFO - Extracted FAQ - Question: What is Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:47:58,646 - INFO - Extracted FAQ - Question: Is Voluntary Disclosure backed by law?, Section: General FAQs
+2024-10-08 10:47:58,657 - INFO - Extracted FAQ - Question: Why did URA introduce Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:47:58,669 - INFO - Extracted FAQ - Question: What benefits does Voluntary Disclosure extend to taxpayers and the public?, Section: General FAQs
+2024-10-08 10:47:58,683 - INFO - Extracted FAQ - Question: What is the process of applying for voluntary disclosure?, Section: General FAQs
+2024-10-08 10:47:58,696 - INFO - Extracted FAQ - Question: What is a Voluntary Disclosure Form (VDF?), Section: General FAQs
+2024-10-08 10:47:58,709 - INFO - Extracted FAQ - Question: What should one consider when applying for the Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:47:58,720 - INFO - Extracted FAQ - Question: Are there any exceptions to Voluntary disclosure?, Section: General FAQs
+2024-10-08 10:47:58,727 - INFO - Extracted FAQ - Question: What are capital gains?, Section: General FAQs
+2024-10-08 10:47:58,737 - INFO - Extracted FAQ - Question: What is a business asset?, Section: General FAQs
+2024-10-08 10:47:58,742 - INFO - Extracted FAQ - Question: When is a disposal for purposes of taxing capital gains?, Section: General FAQs
+2024-10-08 10:47:58,752 - INFO - Extracted FAQ - Question: When are capital gains taxed?, Section: General FAQs
+2024-10-08 10:47:58,757 - INFO - Extracted FAQ - Question: What is a capital loss?, Section: General FAQs
+2024-10-08 10:47:58,763 - INFO - Extracted FAQ - Question: What happens when a capital loss is made?, Section: General FAQs
+2024-10-08 10:47:58,773 - INFO - Extracted FAQ - Question: How is a capital gain/loss computed?, Section: General FAQs
+2024-10-08 10:47:58,781 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:47:58,788 - INFO - Extracted FAQ - Question: Is there a capital gains tax legislation in Uganda?, Section: General FAQs
+2024-10-08 10:47:58,795 - INFO - Extracted FAQ - Question: How are capital gains for an individual taxed?, Section: General FAQs
+2024-10-08 10:47:58,803 - INFO - Extracted FAQ - Question: How are capital gains for a corporate entity taxed?, Section: General FAQs
+2024-10-08 10:47:58,815 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is sold after 12 months or more from the date of purchase., Section: General FAQs
+2024-10-08 10:47:58,836 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is purchased and sold within 12 months from the date of purchase., Section: General FAQs
+2024-10-08 10:47:58,852 - INFO - Extracted FAQ - Question: Are there any gains or losses from the disposal of a business asset, sale of shares and commercial buildings that are not recognized for taxation purposes?, Section: General FAQs
+2024-10-08 10:47:58,867 - INFO - Extracted FAQ - Question: What is provisional income tax?, Section: General FAQs
+2024-10-08 10:47:58,880 - INFO - Extracted FAQ - Question: Isn’t provisional income tax a form of double taxation?, Section: General FAQs
+2024-10-08 10:47:58,899 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is more than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:47:58,911 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is less than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:47:58,919 - INFO - Extracted FAQ - Question: What is the importance of taxpayers paying provisional income tax, why not wait for the year of income to end?, Section: General FAQs
+2024-10-08 10:47:58,926 - INFO - Extracted FAQ - Question: Who pays provisional income tax?, Section: General FAQs
+2024-10-08 10:47:58,934 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:47:58,944 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:47:58,958 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for provisional income tax?, Section: General FAQs
+2024-10-08 10:47:58,973 - INFO - Extracted FAQ - Question: If a taxpayer filed a provisional income tax return, why file a final income tax return at the end of the year of income?, Section: General FAQs
+2024-10-08 10:47:58,988 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for final income tax?, Section: General FAQs
+2024-10-08 10:47:58,997 - INFO - Extracted FAQ - Question: How do I Declare instrument for stamp duty., Section: General FAQs
+2024-10-08 10:47:59,012 - INFO - Extracted FAQ - Question: How do I print the Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:47:59,027 - INFO - Extracted FAQ - Question: How do I get a Duplicate Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:47:59,043 - INFO - Extracted FAQ - Question: Who is an employer?, Section: General FAQs
+2024-10-08 10:47:59,061 - INFO - Extracted FAQ - Question: What are the Employment gains not included in chargeable income?, Section: General FAQs
+2024-10-08 10:47:59,087 - INFO - Extracted FAQ - Question: What is a Benefit In Kind?, Section: General FAQs
+2024-10-08 10:47:59,112 - INFO - Extracted FAQ - Question: When a benefit is deemed to have been provided by the employer?, Section: General FAQs
+2024-10-08 10:47:59,139 - INFO - Extracted FAQ - Question: What are the rates of PAYE?, Section: General FAQs
+2024-10-08 10:47:59,160 - INFO - Extracted FAQ - Question: How is Part-time allowance treated, Section: General FAQs
+2024-10-08 10:47:59,191 - INFO - Extracted FAQ - Question: What are the obligations of an Employer, Section: General FAQs
+2024-10-08 10:47:59,240 - INFO - Extracted FAQ - Question: What are the rights of an Employee?, Section: General FAQs
+2024-10-08 10:47:59,270 - INFO - Extracted FAQ - Question: What are the obligations of an Employee?, Section: General FAQs
+2024-10-08 10:47:59,295 - INFO - Extracted FAQ - Question: What happens if tax is defaulted?, Section: General FAQs
+2024-10-08 10:47:59,296 - INFO - Extracted 46 FAQs from section: General FAQs
+2024-10-08 10:47:59,296 - INFO - Extracting FAQs from section: Processes & Systems FAQs - URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:48:05,373 - INFO - Extracted FAQ - Question: Step I:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,379 - INFO - Extracted FAQ - Question: STEP II:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,391 - INFO - Extracted FAQ - Question: STEP III:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,401 - INFO - Extracted FAQ - Question: STEP IV:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,416 - INFO - Extracted FAQ - Question: STEP V:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,429 - INFO - Extracted FAQ - Question: STEP VI:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,441 - INFO - Extracted FAQ - Question: STEP VII:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,447 - INFO - Extracted FAQ - Question: STEP VIII:, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,456 - INFO - Extracted FAQ - Question: How do I apply for Learners/Provisional Driving Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,468 - INFO - Extracted FAQ - Question: How do I apply for Full Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,481 - INFO - Extracted FAQ - Question: How do I apply for Driving Permit Exchange? (Permits obtained outside Uganda), Section: Processes & Systems FAQs
+2024-10-08 10:48:05,486 - INFO - Extracted FAQ - Question: How do I Renew my permit?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,493 - INFO - Extracted FAQ - Question: How do I add a class on my permit (Extension of classes)?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,498 - INFO - Extracted FAQ - Question: How do I apply for Duplicate permit?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,505 - INFO - Extracted FAQ - Question: How do I validate my Motor vehicle Details (Get a new Registration Book)?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,515 - INFO - Extracted FAQ - Question: How do I apply for Duplicate registration books/number plates?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,527 - INFO - Extracted FAQ - Question: How do I apply for Change of ownership (Vehicle Transfer)?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,540 - INFO - Extracted FAQ - Question: How do I Re-register a motor vehicle (Change Plate Category?), Section: Processes & Systems FAQs
+2024-10-08 10:48:05,553 - INFO - Extracted FAQ - Question: How do I apply for Alteration of Particulars on Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,565 - INFO - Extracted FAQ - Question: How do I De-register a motor vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,579 - INFO - Extracted FAQ - Question: How do I transfer a vehicle if I can't trace the owner (Absentee Transferor)?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,594 - INFO - Extracted FAQ - Question: How do I search and certify Motor vehicle details?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,608 - INFO - Extracted FAQ - Question: How do I endorse third party interest (Caveat) on a Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,624 - INFO - Extracted FAQ - Question: How do I renew dealers Plate License?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,642 - INFO - Extracted FAQ - Question: How do I Renew an OTV License?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,670 - INFO - Extracted FAQ - Question: How do I get or Renew PMO and PSV License?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,687 - INFO - Extracted FAQ - Question: What is a return filling?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,705 - INFO - Extracted FAQ - Question: Who is eligible to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,723 - INFO - Extracted FAQ - Question: Who is not required to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,741 - INFO - Extracted FAQ - Question: What are the different due dates for filling the returns?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,763 - INFO - Extracted FAQ - Question: What is the difference between provisional and final return?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,784 - INFO - Extracted FAQ - Question: How do I file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,802 - INFO - Extracted FAQ - Question: How do I amend an already filed return?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,820 - INFO - Extracted FAQ - Question: How do I print a copy of a submitted return/ View return History?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,833 - INFO - Extracted FAQ - Question: How do deal with "Error code on return upload"?, Section: Processes & Systems FAQs
+2024-10-08 10:48:05,834 - INFO - Extracted 35 FAQs from section: Processes & Systems FAQs
+2024-10-08 10:48:05,834 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:48:11,796 - INFO - Extracted FAQ - Question: What is an assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:11,809 - INFO - Extracted FAQ - Question: Why would you make a payment registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:11,822 - INFO - Extracted FAQ - Question: Step by step on How to register a payment on the web portal, Section: Domestic Taxes FAQs
+2024-10-08 10:48:11,823 - INFO - Extracted 3 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:48:11,824 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:48:18,273 - INFO - Extracted FAQ - Question: HOW TO GET A TAX CLEARANCE CERTIFICATE, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,290 - INFO - Extracted FAQ - Question: , Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,303 - INFO - Extracted FAQ - Question: What is a tax calculator?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,314 - INFO - Extracted FAQ - Question: What is a TIN, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,328 - INFO - Extracted FAQ - Question: What is the importance of a TIN?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,350 - INFO - Extracted FAQ - Question: Identification Documents Required for Individuals, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,372 - INFO - Extracted FAQ - Question: How to Register on Line?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,381 - INFO - Extracted FAQ - Question: How do I apply for the new TIN/ E-Registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,391 - INFO - Extracted FAQ - Question: How do I Enable macros?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,403 - INFO - Extracted FAQ - Question: How do I print out a copy of the uploaded TIN application form?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,414 - INFO - Extracted FAQ - Question: How do I Register for Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,426 - INFO - Extracted FAQ - Question: Ammendment of TIN details, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,443 - INFO - Extracted FAQ - Question: Group TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,459 - INFO - Extracted FAQ - Question: Individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,471 - INFO - Extracted FAQ - Question: Instant TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,482 - INFO - Extracted FAQ - Question: Non-individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,495 - INFO - Extracted FAQ - Question: Stamp Duty Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,509 - INFO - Extracted FAQ - Question: VAT Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:48:18,509 - INFO - Extracted 18 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:48:18,509 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:48:23,952 - INFO - Extracted FAQ - Question: Who is a domestic tax agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:23,959 - INFO - Extracted FAQ - Question: How to Register As a Domestic  Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:48:23,966 - INFO - Extracted FAQ - Question: How to Appoint a Domestic Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:48:23,973 - INFO - Extracted FAQ - Question: How to Approve A Domestic Tax Agent Appointment, Section: Domestic Taxes FAQs
+2024-10-08 10:48:23,973 - INFO - Extracted 4 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:48:23,973 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:48:28,545 - INFO - Extracted FAQ - Question: What is Stamp Duty?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:28,553 - INFO - Extracted FAQ - Question: What is digital tracking solutions (DTS)?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:28,553 - INFO - Extracted 2 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:48:28,553 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:48:33,238 - INFO - Extracted FAQ - Question: What does Section  47A of the Tax Procedures Code Act provide?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,243 - INFO - Extracted FAQ - Question: Is Section 47A different from Sec. 40D of the TPC Act?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,249 - INFO - Extracted FAQ - Question: Who then qualifies for the Waiver of Interest and Penalty?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,253 - INFO - Extracted FAQ - Question: What taxes are covered by this waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,259 - INFO - Extracted FAQ - Question: How can I check for my outstanding balance?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,264 - INFO - Extracted FAQ - Question: How do I register a payment for the outstanding principal tax?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,269 - INFO - Extracted FAQ - Question: What should I do if I notice any variance in their ledger?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,274 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty require application?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,280 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty have a payment deadline?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,286 - INFO - Extracted FAQ - Question: How do I get my Interest and Penalties waived?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,291 - INFO - Extracted FAQ - Question: What happens if I can not clear all the tax liability due to URA as of 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,296 - INFO - Extracted FAQ - Question: If I paid my outstanding tax with penalties and interest in March, 2024, do I still qualify for the waiver of interest and penalty already paid?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,301 - INFO - Extracted FAQ - Question: In case I filed NIL or offset returns late and penalties were issued for the period in question, do I also qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,306 - INFO - Extracted FAQ - Question: Do I qualify for the waiver if liabilities relate to the period up to 30th June 2023 but were created after the period or are being created now?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,311 - INFO - Extracted FAQ - Question: Why weren’t my penalties and interest waived yet I paid my principal tax for the month of June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,317 - INFO - Extracted FAQ - Question: Does the waiver apply to interest and penalties that accrued after 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,324 - INFO - Extracted FAQ - Question: Do returns whose due date falls after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,331 - INFO - Extracted FAQ - Question: Do liabilities as at 30th June 2023, but whose returns are submitted after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,337 - INFO - Extracted FAQ - Question: Are there any penalties and waivers not covered by the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,342 - INFO - Extracted FAQ - Question: CLICK HERE TO DOWNLOAD QUICK FACTS ABOUT THE WAIVER OF INTEREST, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,348 - INFO - Extracted FAQ - Question: Who is a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,354 - INFO - Extracted FAQ - Question: What are the roles of a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,360 - INFO - Extracted FAQ - Question: Are Tax Agents required to register in order to act on behalf of taxpayers?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,367 - INFO - Extracted FAQ - Question: Who can apply for Tax Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,373 - INFO - Extracted FAQ - Question: What are the prescribed registration fees?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,380 - INFO - Extracted FAQ - Question: Who handles Tax Agents registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,386 - INFO - Extracted FAQ - Question: What is the mandate of TARC?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,392 - INFO - Extracted FAQ - Question: Composition of the TARC, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,398 - INFO - Extracted FAQ - Question: What are the requirements for Tax   Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,404 - INFO - Extracted FAQ - Question: What qualifications are required for one to be a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,411 - INFO - Extracted FAQ - Question: What is the validity period for a tax agent's certificate of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,417 - INFO - Extracted FAQ - Question: When should a registered Tax Agent apply for renewal of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,423 - INFO - Extracted FAQ - Question: How to register additional or substituted Tax Agents:, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,430 - INFO - Extracted FAQ - Question: When should the TARC be notified of any change in registered particulars of Tax Agents?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,437 - INFO - Extracted FAQ - Question: Is cancellation of tax agent registration possible?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,444 - INFO - Extracted FAQ - Question: How does one apply to be registered as a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,450 - INFO - Extracted FAQ - Question: BUSINESS FORMALISATION, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,456 - INFO - Extracted FAQ - Question: BUSINESS RECORDS, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,463 - INFO - Extracted FAQ - Question: HOW TO BECOME TAX COMPLIANT, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,471 - INFO - Extracted FAQ - Question: KEY FINANCIAL MANAGEMENT SKILLS FOR SMALL BUSINESSES, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,477 - INFO - Extracted FAQ - Question: STARTERPACK FOR NEWLY REGISTERED TAXPAYERS, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,485 - INFO - Extracted FAQ - Question: VOLUNTARY DISCLOSURE, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,492 - INFO - Extracted FAQ - Question: WITHHOLDING TAX, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,499 - INFO - Extracted FAQ - Question: MOTOR VEHICLE REGISTRATION, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,506 - INFO - Extracted FAQ - Question: ELCTRONIC FISCAL RECEIPTING AND INVOICING SOLUTION (EFRIS), Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,514 - INFO - Extracted FAQ - Question: Hotel and Accommodation Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,521 - INFO - Extracted FAQ - Question: Small Business Taxpayers, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,528 - INFO - Extracted FAQ - Question: Tourism Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,535 - INFO - Extracted FAQ - Question: Transport Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,543 - INFO - Extracted FAQ - Question: VAT Registered Category, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,552 - INFO - Extracted FAQ - Question: Wholesale and Retail Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,559 - INFO - Extracted FAQ - Question: How to object to an Income Tax assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,567 - INFO - Extracted FAQ - Question: How to object to a VAT assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,575 - INFO - Extracted FAQ - Question: Objections & Appeals, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,583 - INFO - Extracted FAQ - Question: Objections Q&A, Section: Domestic Taxes FAQs
+2024-10-08 10:48:33,583 - INFO - Extracted 55 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:48:33,583 - INFO - Extracting FAQs from section: Import & Export FAQs - URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:48:38,703 - INFO - Extracted FAQ - Question: What is Customs valuation?, Section: Import & Export FAQs
+2024-10-08 10:48:38,708 - INFO - Extracted FAQ - Question: Define customs value?, Section: Import & Export FAQs
+2024-10-08 10:48:38,715 - INFO - Extracted FAQ - Question: What are Ad valorem duties and taxes?, Section: Import & Export FAQs
+2024-10-08 10:48:38,720 - INFO - Extracted FAQ - Question: What are the different methods of valuation?, Section: Import & Export FAQs
+2024-10-08 10:48:38,726 - INFO - Extracted FAQ - Question: What is the composition of the customs value?, Section: Import & Export FAQs
+2024-10-08 10:48:38,732 - INFO - Extracted FAQ - Question: How are the import taxes calculated?, Section: Import & Export FAQs
+2024-10-08 10:48:38,738 - INFO - Extracted FAQ - Question: How do you determine customs duty of used vehicles?, Section: Import & Export FAQs
+2024-10-08 10:48:38,744 - INFO - Extracted FAQ - Question: Who is a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:48:38,753 - INFO - Extracted FAQ - Question: Why does URA work with clearing agents and not directly with the importer?, Section: Import & Export FAQs
+2024-10-08 10:48:38,759 - INFO - Extracted FAQ - Question: What is expected of a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:48:38,768 - INFO - Extracted FAQ - Question: How will the agent assist the owner of the goods?, Section: Import & Export FAQs
+2024-10-08 10:48:38,774 - INFO - Extracted FAQ - Question: How can an importer tell a fake clearing agent from a real one?, Section: Import & Export FAQs
+2024-10-08 10:48:38,783 - INFO - Extracted FAQ - Question: If it is my first time to import, where can I find an agent?, Section: Import & Export FAQs
+2024-10-08 10:48:38,789 - INFO - Extracted FAQ - Question: Do you need a license to be a Customs Agent?, Section: Import & Export FAQs
+2024-10-08 10:48:38,796 - INFO - Extracted FAQ - Question: Can anyone be given a license?, Section: Import & Export FAQs
+2024-10-08 10:48:38,805 - INFO - Extracted FAQ - Question: What is the validity period of a license?, Section: Import & Export FAQs
+2024-10-08 10:48:38,810 - INFO - Extracted FAQ - Question: Is the Licenser renewal process automatic?, Section: Import & Export FAQs
+2024-10-08 10:48:38,819 - INFO - Extracted FAQ - Question: Is there a fee payable for the license?, Section: Import & Export FAQs
+2024-10-08 10:48:38,826 - INFO - Extracted FAQ - Question: What will happen if an agent is involved in illicit activities?, Section: Import & Export FAQs
+2024-10-08 10:48:38,832 - INFO - Extracted FAQ - Question: What are the obligations of an agent to the Commissioner?, Section: Import & Export FAQs
+2024-10-08 10:48:38,838 - INFO - Extracted FAQ - Question: What are the obligations of the client to the agent?, Section: Import & Export FAQs
+2024-10-08 10:48:38,844 - INFO - Extracted FAQ - Question: What are the requirements and conditions for licensing of customs agents?, Section: Import & Export FAQs
+2024-10-08 10:48:38,851 - INFO - Extracted FAQ - Question: , Section: Import & Export FAQs
+2024-10-08 10:48:38,858 - INFO - Extracted FAQ - Question: What is cargo consolidation?, Section: Import & Export FAQs
+2024-10-08 10:48:38,865 - INFO - Extracted FAQ - Question: Who are cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:48:38,871 - INFO - Extracted FAQ - Question: Is there an association that brings together cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:48:38,877 - INFO - Extracted FAQ - Question: What is expected of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:48:38,883 - INFO - Extracted FAQ - Question: What is the role of the UCCA?, Section: Import & Export FAQs
+2024-10-08 10:48:38,889 - INFO - Extracted FAQ - Question: What measures have been put in place by UCCA to eliminate imposters, fraudsters, illegal fees, and any form of manipulation of groupage cargo importers?, Section: Import & Export FAQs
+2024-10-08 10:48:38,896 - INFO - Extracted FAQ - Question: What	are	the	benefits	of	cargo	consolidation	to	an	importer	or	trader?, Section: Import & Export FAQs
+2024-10-08 10:48:38,904 - INFO - Extracted FAQ - Question: What are the advantages of employing the services of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:48:38,911 - INFO - Extracted FAQ - Question: What are the risks of cargo groupage without the services of a formal cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:48:38,922 - INFO - Extracted FAQ - Question: What are the required import and export documents for cargo groupage?, Section: Import & Export FAQs
+2024-10-08 10:48:38,929 - INFO - Extracted FAQ - Question: What is the customs procedure for clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:48:38,939 - INFO - Extracted FAQ - Question: Are there platforms for resolving issues related to customs clearance of groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:48:38,946 - INFO - Extracted FAQ - Question: What fees are charged when clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:48:38,955 - INFO - Extracted FAQ - Question: Can an importer pay taxes for their cargo using the cargo consolidator’s Tax Identification	Number	(TIN)?, Section: Import & Export FAQs
+2024-10-08 10:48:38,963 - INFO - Extracted FAQ - Question: Can an importer make customs payments for their goods directly to the cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:48:38,972 - INFO - Extracted FAQ - Question: Which illegal activities should a cargo consolidator avoid?, Section: Import & Export FAQs
+2024-10-08 10:48:38,978 - INFO - Extracted FAQ - Question: What happens if a cargo consolidator is involved in illegal activities?, Section: Import & Export FAQs
+2024-10-08 10:48:38,986 - INFO - Extracted FAQ - Question: How do you differentiate between a genuine and a non-genuine consolidator?, Section: Import & Export FAQs
+2024-10-08 10:48:38,993 - INFO - Extracted FAQ - Question: What is the process of consolidating cargo?, Section: Import & Export FAQs
+2024-10-08 10:48:39,001 - INFO - Extracted FAQ - Question: What is a customs bonded warehouse?, Section: Import & Export FAQs
+2024-10-08 10:48:39,009 - INFO - Extracted FAQ - Question: Which items are prohibited from being warehoused?, Section: Import & Export FAQs
+2024-10-08 10:48:39,017 - INFO - Extracted FAQ - Question: What is Single Customs Territory?, Section: Import & Export FAQs
+2024-10-08 10:48:39,024 - INFO - Extracted FAQ - Question: What is SCT all about?, Section: Import & Export FAQs
+2024-10-08 10:48:39,033 - INFO - Extracted FAQ - Question: What are the features of SCT?, Section: Import & Export FAQs
+2024-10-08 10:48:39,040 - INFO - Extracted FAQ - Question: When was the SCT implemented?, Section: Import & Export FAQs
+2024-10-08 10:48:39,050 - INFO - Extracted FAQ - Question: What is the Current status of the SCT implementation?, Section: Import & Export FAQs
+2024-10-08 10:48:39,058 - INFO - Extracted FAQ - Question: What are the benefits from the SCT?, Section: Import & Export FAQs
+2024-10-08 10:48:39,071 - INFO - Extracted FAQ - Question: Which Countries are involved in the SCT?, Section: Import & Export FAQs
+2024-10-08 10:48:39,081 - INFO - Extracted FAQ - Question: Will importing/destination Partner states deploy officials at the first points of entry?, Section: Import & Export FAQs
+2024-10-08 10:48:39,089 - INFO - Extracted FAQ - Question: Who are the key stakeholders in the SCT clearance Processes?, Section: Import & Export FAQs
+2024-10-08 10:48:39,098 - INFO - Extracted FAQ - Question: Are there any requirements for stakeholder to transact under the SCT?, Section: Import & Export FAQs
+2024-10-08 10:48:39,107 - INFO - Extracted FAQ - Question: Shall the Customs/ Clearing Agents involved in the clearance process be required to relocate to Mombasa and/or Dar es Salaam as first points of entry respectively?, Section: Import & Export FAQs
+2024-10-08 10:48:39,116 - INFO - Extracted FAQ - Question: What is Mutual Recognition of Customs/Clearing Agents?, Section: Import & Export FAQs
+2024-10-08 10:48:39,116 - INFO - Extracted 56 FAQs from section: Import & Export FAQs
+2024-10-08 10:48:39,324 - INFO - WebDriver closed.
+2024-10-08 10:52:46,881 - INFO - Starting FAQ scraping process.
+2024-10-08 10:52:48,701 - INFO - WebDriver initialized successfully.
+2024-10-08 10:52:48,702 - INFO - Using Chrome version: 129.0.6668.89
+2024-10-08 10:52:48,702 - INFO - Using ChromeDriver version: 129.0.6668.89
+2024-10-08 10:52:48,703 - INFO - Opening URL: https://ura.go.ug/
+2024-10-08 10:52:54,289 - INFO - Clicking FAQ dropdown button.
+2024-10-08 10:52:54,775 - INFO - FAQ dropdown displayed successfully.
+2024-10-08 10:52:54,777 - INFO - Extracting FAQ section links from the dropdown.
+2024-10-08 10:52:55,069 - INFO - Found section: 'General FAQs' with URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:52:55,277 - INFO - Found section: 'Processes & Systems FAQs' with URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:52:55,352 - INFO - Found parent section: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/
+2024-10-08 10:52:55,559 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:52:55,580 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:52:55,606 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:52:55,805 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:52:55,838 - INFO - Found subsection: 'Domestic Taxes FAQs' with URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:52:56,374 - INFO - Found section: 'Import & Export FAQs' with URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:52:56,376 - INFO - Total FAQ sections found: 8
+2024-10-08 10:52:56,377 - INFO - Collected 8 FAQ URLs.
+2024-10-08 10:52:56,377 - INFO - Extracting FAQs from section: General FAQs - URL: https://ura.go.ug/en/general-faqs/
+2024-10-08 10:53:03,078 - INFO - Extracted FAQ - Question: What is Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:53:03,090 - INFO - Extracted FAQ - Question: Is Voluntary Disclosure backed by law?, Section: General FAQs
+2024-10-08 10:53:03,101 - INFO - Extracted FAQ - Question: Why did URA introduce Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:53:03,120 - INFO - Extracted FAQ - Question: What benefits does Voluntary Disclosure extend to taxpayers and the public?, Section: General FAQs
+2024-10-08 10:53:03,131 - INFO - Extracted FAQ - Question: What is the process of applying for voluntary disclosure?, Section: General FAQs
+2024-10-08 10:53:03,143 - INFO - Extracted FAQ - Question: What is a Voluntary Disclosure Form (VDF?), Section: General FAQs
+2024-10-08 10:53:03,154 - INFO - Extracted FAQ - Question: What should one consider when applying for the Voluntary Disclosure?, Section: General FAQs
+2024-10-08 10:53:03,166 - INFO - Extracted FAQ - Question: Are there any exceptions to Voluntary disclosure?, Section: General FAQs
+2024-10-08 10:53:03,178 - INFO - Extracted FAQ - Question: What are capital gains?, Section: General FAQs
+2024-10-08 10:53:03,189 - INFO - Extracted FAQ - Question: What is a business asset?, Section: General FAQs
+2024-10-08 10:53:03,200 - INFO - Extracted FAQ - Question: When is a disposal for purposes of taxing capital gains?, Section: General FAQs
+2024-10-08 10:53:03,212 - INFO - Extracted FAQ - Question: When are capital gains taxed?, Section: General FAQs
+2024-10-08 10:53:03,224 - INFO - Extracted FAQ - Question: What is a capital loss?, Section: General FAQs
+2024-10-08 10:53:03,235 - INFO - Extracted FAQ - Question: What happens when a capital loss is made?, Section: General FAQs
+2024-10-08 10:53:03,247 - INFO - Extracted FAQ - Question: How is a capital gain/loss computed?, Section: General FAQs
+2024-10-08 10:53:03,259 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:53:03,271 - INFO - Extracted FAQ - Question: Is there a capital gains tax legislation in Uganda?, Section: General FAQs
+2024-10-08 10:53:03,284 - INFO - Extracted FAQ - Question: How are capital gains for an individual taxed?, Section: General FAQs
+2024-10-08 10:53:03,297 - INFO - Extracted FAQ - Question: How are capital gains for a corporate entity taxed?, Section: General FAQs
+2024-10-08 10:53:03,310 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is sold after 12 months or more from the date of purchase., Section: General FAQs
+2024-10-08 10:53:03,317 - INFO - Extracted FAQ - Question: Compute tax on capital gains where a business asset is purchased and sold within 12 months from the date of purchase., Section: General FAQs
+2024-10-08 10:53:03,327 - INFO - Extracted FAQ - Question: Are there any gains or losses from the disposal of a business asset, sale of shares and commercial buildings that are not recognized for taxation purposes?, Section: General FAQs
+2024-10-08 10:53:03,334 - INFO - Extracted FAQ - Question: What is provisional income tax?, Section: General FAQs
+2024-10-08 10:53:03,346 - INFO - Extracted FAQ - Question: Isn’t provisional income tax a form of double taxation?, Section: General FAQs
+2024-10-08 10:53:03,362 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is more than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:53:03,376 - INFO - Extracted FAQ - Question: What happens if the provisional tax paid is less than the final income tax assessed?, Section: General FAQs
+2024-10-08 10:53:03,388 - INFO - Extracted FAQ - Question: What is the importance of taxpayers paying provisional income tax, why not wait for the year of income to end?, Section: General FAQs
+2024-10-08 10:53:03,401 - INFO - Extracted FAQ - Question: Who pays provisional income tax?, Section: General FAQs
+2024-10-08 10:53:03,413 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:53:03,426 - INFO - Extracted FAQ - Question: How can a person determine/project income for a year that has just started?, Section: General FAQs
+2024-10-08 10:53:03,435 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for provisional income tax?, Section: General FAQs
+2024-10-08 10:53:03,441 - INFO - Extracted FAQ - Question: If a taxpayer filed a provisional income tax return, why file a final income tax return at the end of the year of income?, Section: General FAQs
+2024-10-08 10:53:03,448 - INFO - Extracted FAQ - Question: What are the filing and payment due dates for final income tax?, Section: General FAQs
+2024-10-08 10:53:03,455 - INFO - Extracted FAQ - Question: How do I Declare instrument for stamp duty., Section: General FAQs
+2024-10-08 10:53:03,463 - INFO - Extracted FAQ - Question: How do I print the Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:53:03,476 - INFO - Extracted FAQ - Question: How do I get a Duplicate Stamp duty certificate?, Section: General FAQs
+2024-10-08 10:53:03,489 - INFO - Extracted FAQ - Question: Who is an employer?, Section: General FAQs
+2024-10-08 10:53:03,505 - INFO - Extracted FAQ - Question: What are the Employment gains not included in chargeable income?, Section: General FAQs
+2024-10-08 10:53:03,515 - INFO - Extracted FAQ - Question: What is a Benefit In Kind?, Section: General FAQs
+2024-10-08 10:53:03,523 - INFO - Extracted FAQ - Question: When a benefit is deemed to have been provided by the employer?, Section: General FAQs
+2024-10-08 10:53:03,537 - INFO - Extracted FAQ - Question: What are the rates of PAYE?, Section: General FAQs
+2024-10-08 10:53:03,551 - INFO - Extracted FAQ - Question: How is Part-time allowance treated, Section: General FAQs
+2024-10-08 10:53:03,565 - INFO - Extracted FAQ - Question: What are the obligations of an Employer, Section: General FAQs
+2024-10-08 10:53:03,579 - INFO - Extracted FAQ - Question: What are the rights of an Employee?, Section: General FAQs
+2024-10-08 10:53:03,596 - INFO - Extracted FAQ - Question: What are the obligations of an Employee?, Section: General FAQs
+2024-10-08 10:53:03,611 - INFO - Extracted FAQ - Question: What happens if tax is defaulted?, Section: General FAQs
+2024-10-08 10:53:03,611 - INFO - Extracted 46 FAQs from section: General FAQs
+2024-10-08 10:53:03,612 - INFO - Extracting FAQs from section: Processes & Systems FAQs - URL: https://ura.go.ug/en/processes-systems-faqs/
+2024-10-08 10:53:09,626 - INFO - Extracted FAQ - Question: Step I:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,631 - INFO - Extracted FAQ - Question: STEP II:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,640 - INFO - Extracted FAQ - Question: STEP III:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,650 - INFO - Extracted FAQ - Question: STEP IV:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,660 - INFO - Extracted FAQ - Question: STEP V:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,670 - INFO - Extracted FAQ - Question: STEP VI:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,681 - INFO - Extracted FAQ - Question: STEP VII:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,691 - INFO - Extracted FAQ - Question: STEP VIII:, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,702 - INFO - Extracted FAQ - Question: How do I apply for Learners/Provisional Driving Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,712 - INFO - Extracted FAQ - Question: How do I apply for Full Permit?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,723 - INFO - Extracted FAQ - Question: How do I apply for Driving Permit Exchange? (Permits obtained outside Uganda), Section: Processes & Systems FAQs
+2024-10-08 10:53:09,735 - INFO - Extracted FAQ - Question: How do I Renew my permit?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,747 - INFO - Extracted FAQ - Question: How do I add a class on my permit (Extension of classes)?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,759 - INFO - Extracted FAQ - Question: How do I apply for Duplicate permit?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,772 - INFO - Extracted FAQ - Question: How do I validate my Motor vehicle Details (Get a new Registration Book)?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,786 - INFO - Extracted FAQ - Question: How do I apply for Duplicate registration books/number plates?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,798 - INFO - Extracted FAQ - Question: How do I apply for Change of ownership (Vehicle Transfer)?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,811 - INFO - Extracted FAQ - Question: How do I Re-register a motor vehicle (Change Plate Category?), Section: Processes & Systems FAQs
+2024-10-08 10:53:09,823 - INFO - Extracted FAQ - Question: How do I apply for Alteration of Particulars on Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,835 - INFO - Extracted FAQ - Question: How do I De-register a motor vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,842 - INFO - Extracted FAQ - Question: How do I transfer a vehicle if I can't trace the owner (Absentee Transferor)?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,849 - INFO - Extracted FAQ - Question: How do I search and certify Motor vehicle details?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,861 - INFO - Extracted FAQ - Question: How do I endorse third party interest (Caveat) on a Motor Vehicle?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,871 - INFO - Extracted FAQ - Question: How do I renew dealers Plate License?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,879 - INFO - Extracted FAQ - Question: How do I Renew an OTV License?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,891 - INFO - Extracted FAQ - Question: How do I get or Renew PMO and PSV License?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,902 - INFO - Extracted FAQ - Question: What is a return filling?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,910 - INFO - Extracted FAQ - Question: Who is eligible to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,919 - INFO - Extracted FAQ - Question: Who is not required to file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,927 - INFO - Extracted FAQ - Question: What are the different due dates for filling the returns?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,936 - INFO - Extracted FAQ - Question: What is the difference between provisional and final return?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,949 - INFO - Extracted FAQ - Question: How do I file a return?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,962 - INFO - Extracted FAQ - Question: How do I amend an already filed return?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,977 - INFO - Extracted FAQ - Question: How do I print a copy of a submitted return/ View return History?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,991 - INFO - Extracted FAQ - Question: How do deal with "Error code on return upload"?, Section: Processes & Systems FAQs
+2024-10-08 10:53:09,992 - INFO - Extracted 35 FAQs from section: Processes & Systems FAQs
+2024-10-08 10:53:09,992 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/agents-appointment/
+2024-10-08 10:53:16,820 - INFO - Extracted FAQ - Question: What is an assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:16,830 - INFO - Extracted FAQ - Question: Why would you make a payment registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:16,842 - INFO - Extracted FAQ - Question: Step by step on How to register a payment on the web portal, Section: Domestic Taxes FAQs
+2024-10-08 10:53:16,842 - INFO - Extracted 3 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:53:16,843 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services/
+2024-10-08 10:53:22,193 - INFO - Extracted FAQ - Question: HOW TO GET A TAX CLEARANCE CERTIFICATE, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,204 - INFO - Extracted FAQ - Question: , Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,214 - INFO - Extracted FAQ - Question: What is a tax calculator?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,222 - INFO - Extracted FAQ - Question: What is a TIN, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,227 - INFO - Extracted FAQ - Question: What is the importance of a TIN?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,239 - INFO - Extracted FAQ - Question: Identification Documents Required for Individuals, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,249 - INFO - Extracted FAQ - Question: How to Register on Line?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,261 - INFO - Extracted FAQ - Question: How do I apply for the new TIN/ E-Registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,273 - INFO - Extracted FAQ - Question: How do I Enable macros?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,285 - INFO - Extracted FAQ - Question: How do I print out a copy of the uploaded TIN application form?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,299 - INFO - Extracted FAQ - Question: How do I Register for Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,308 - INFO - Extracted FAQ - Question: Ammendment of TIN details, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,316 - INFO - Extracted FAQ - Question: Group TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,327 - INFO - Extracted FAQ - Question: Individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,343 - INFO - Extracted FAQ - Question: Instant TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,354 - INFO - Extracted FAQ - Question: Non-individual TIN Application, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,364 - INFO - Extracted FAQ - Question: Stamp Duty Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,375 - INFO - Extracted FAQ - Question: VAT Registration, Section: Domestic Taxes FAQs
+2024-10-08 10:53:22,376 - INFO - Extracted 18 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:53:22,376 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/dt-faqs/agents-services/
+2024-10-08 10:53:27,913 - INFO - Extracted FAQ - Question: Who is a domestic tax agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:27,923 - INFO - Extracted FAQ - Question: How to Register As a Domestic  Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:53:27,936 - INFO - Extracted FAQ - Question: How to Appoint a Domestic Tax Agent, Section: Domestic Taxes FAQs
+2024-10-08 10:53:27,949 - INFO - Extracted FAQ - Question: How to Approve A Domestic Tax Agent Appointment, Section: Domestic Taxes FAQs
+2024-10-08 10:53:27,950 - INFO - Extracted 4 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:53:27,951 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/tax-services-2/
+2024-10-08 10:53:32,761 - INFO - Extracted FAQ - Question: What is Stamp Duty?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:32,767 - INFO - Extracted FAQ - Question: What is digital tracking solutions (DTS)?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:32,767 - INFO - Extracted 2 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:53:32,767 - INFO - Extracting FAQs from section: Domestic Taxes FAQs - URL: https://ura.go.ug/en/other-dt-services/
+2024-10-08 10:53:37,902 - INFO - Extracted FAQ - Question: What does Section  47A of the Tax Procedures Code Act provide?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,907 - INFO - Extracted FAQ - Question: Is Section 47A different from Sec. 40D of the TPC Act?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,912 - INFO - Extracted FAQ - Question: Who then qualifies for the Waiver of Interest and Penalty?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,917 - INFO - Extracted FAQ - Question: What taxes are covered by this waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,922 - INFO - Extracted FAQ - Question: How can I check for my outstanding balance?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,928 - INFO - Extracted FAQ - Question: How do I register a payment for the outstanding principal tax?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,933 - INFO - Extracted FAQ - Question: What should I do if I notice any variance in their ledger?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,939 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty require application?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,944 - INFO - Extracted FAQ - Question: Does the Waiver of Interest and Penalty have a payment deadline?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,950 - INFO - Extracted FAQ - Question: How do I get my Interest and Penalties waived?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,956 - INFO - Extracted FAQ - Question: What happens if I can not clear all the tax liability due to URA as of 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,961 - INFO - Extracted FAQ - Question: If I paid my outstanding tax with penalties and interest in March, 2024, do I still qualify for the waiver of interest and penalty already paid?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,967 - INFO - Extracted FAQ - Question: In case I filed NIL or offset returns late and penalties were issued for the period in question, do I also qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,973 - INFO - Extracted FAQ - Question: Do I qualify for the waiver if liabilities relate to the period up to 30th June 2023 but were created after the period or are being created now?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,978 - INFO - Extracted FAQ - Question: Why weren’t my penalties and interest waived yet I paid my principal tax for the month of June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,984 - INFO - Extracted FAQ - Question: Does the waiver apply to interest and penalties that accrued after 30th June 2023?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,992 - INFO - Extracted FAQ - Question: Do returns whose due date falls after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:37,998 - INFO - Extracted FAQ - Question: Do liabilities as at 30th June 2023, but whose returns are submitted after 30th June 2023 qualify for the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,005 - INFO - Extracted FAQ - Question: Are there any penalties and waivers not covered by the waiver?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,011 - INFO - Extracted FAQ - Question: CLICK HERE TO DOWNLOAD QUICK FACTS ABOUT THE WAIVER OF INTEREST, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,018 - INFO - Extracted FAQ - Question: Who is a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,024 - INFO - Extracted FAQ - Question: What are the roles of a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,030 - INFO - Extracted FAQ - Question: Are Tax Agents required to register in order to act on behalf of taxpayers?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,037 - INFO - Extracted FAQ - Question: Who can apply for Tax Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,044 - INFO - Extracted FAQ - Question: What are the prescribed registration fees?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,051 - INFO - Extracted FAQ - Question: Who handles Tax Agents registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,058 - INFO - Extracted FAQ - Question: What is the mandate of TARC?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,064 - INFO - Extracted FAQ - Question: Composition of the TARC, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,075 - INFO - Extracted FAQ - Question: What are the requirements for Tax   Agent registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,082 - INFO - Extracted FAQ - Question: What qualifications are required for one to be a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,090 - INFO - Extracted FAQ - Question: What is the validity period for a tax agent's certificate of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,096 - INFO - Extracted FAQ - Question: When should a registered Tax Agent apply for renewal of registration?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,103 - INFO - Extracted FAQ - Question: How to register additional or substituted Tax Agents:, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,110 - INFO - Extracted FAQ - Question: When should the TARC be notified of any change in registered particulars of Tax Agents?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,116 - INFO - Extracted FAQ - Question: Is cancellation of tax agent registration possible?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,124 - INFO - Extracted FAQ - Question: How does one apply to be registered as a Tax Agent?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,130 - INFO - Extracted FAQ - Question: BUSINESS FORMALISATION, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,142 - INFO - Extracted FAQ - Question: BUSINESS RECORDS, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,149 - INFO - Extracted FAQ - Question: HOW TO BECOME TAX COMPLIANT, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,159 - INFO - Extracted FAQ - Question: KEY FINANCIAL MANAGEMENT SKILLS FOR SMALL BUSINESSES, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,164 - INFO - Extracted FAQ - Question: STARTERPACK FOR NEWLY REGISTERED TAXPAYERS, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,174 - INFO - Extracted FAQ - Question: VOLUNTARY DISCLOSURE, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,181 - INFO - Extracted FAQ - Question: WITHHOLDING TAX, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,190 - INFO - Extracted FAQ - Question: MOTOR VEHICLE REGISTRATION, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,197 - INFO - Extracted FAQ - Question: ELCTRONIC FISCAL RECEIPTING AND INVOICING SOLUTION (EFRIS), Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,205 - INFO - Extracted FAQ - Question: Hotel and Accommodation Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,211 - INFO - Extracted FAQ - Question: Small Business Taxpayers, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,219 - INFO - Extracted FAQ - Question: Tourism Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,227 - INFO - Extracted FAQ - Question: Transport Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,234 - INFO - Extracted FAQ - Question: VAT Registered Category, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,242 - INFO - Extracted FAQ - Question: Wholesale and Retail Sector, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,250 - INFO - Extracted FAQ - Question: How to object to an Income Tax assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,261 - INFO - Extracted FAQ - Question: How to object to a VAT assessment?, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,268 - INFO - Extracted FAQ - Question: Objections & Appeals, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,276 - INFO - Extracted FAQ - Question: Objections Q&A, Section: Domestic Taxes FAQs
+2024-10-08 10:53:38,276 - INFO - Extracted 55 FAQs from section: Domestic Taxes FAQs
+2024-10-08 10:53:38,276 - INFO - Extracting FAQs from section: Import & Export FAQs - URL: https://ura.go.ug/en/import-export-faqs/
+2024-10-08 10:53:43,372 - INFO - Extracted FAQ - Question: What is Customs valuation?, Section: Import & Export FAQs
+2024-10-08 10:53:43,378 - INFO - Extracted FAQ - Question: Define customs value?, Section: Import & Export FAQs
+2024-10-08 10:53:43,384 - INFO - Extracted FAQ - Question: What are Ad valorem duties and taxes?, Section: Import & Export FAQs
+2024-10-08 10:53:43,389 - INFO - Extracted FAQ - Question: What are the different methods of valuation?, Section: Import & Export FAQs
+2024-10-08 10:53:43,394 - INFO - Extracted FAQ - Question: What is the composition of the customs value?, Section: Import & Export FAQs
+2024-10-08 10:53:43,399 - INFO - Extracted FAQ - Question: How are the import taxes calculated?, Section: Import & Export FAQs
+2024-10-08 10:53:43,405 - INFO - Extracted FAQ - Question: How do you determine customs duty of used vehicles?, Section: Import & Export FAQs
+2024-10-08 10:53:43,410 - INFO - Extracted FAQ - Question: Who is a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:53:43,416 - INFO - Extracted FAQ - Question: Why does URA work with clearing agents and not directly with the importer?, Section: Import & Export FAQs
+2024-10-08 10:53:43,423 - INFO - Extracted FAQ - Question: What is expected of a clearing agent?, Section: Import & Export FAQs
+2024-10-08 10:53:43,429 - INFO - Extracted FAQ - Question: How will the agent assist the owner of the goods?, Section: Import & Export FAQs
+2024-10-08 10:53:43,435 - INFO - Extracted FAQ - Question: How can an importer tell a fake clearing agent from a real one?, Section: Import & Export FAQs
+2024-10-08 10:53:43,441 - INFO - Extracted FAQ - Question: If it is my first time to import, where can I find an agent?, Section: Import & Export FAQs
+2024-10-08 10:53:43,446 - INFO - Extracted FAQ - Question: Do you need a license to be a Customs Agent?, Section: Import & Export FAQs
+2024-10-08 10:53:43,456 - INFO - Extracted FAQ - Question: Can anyone be given a license?, Section: Import & Export FAQs
+2024-10-08 10:53:43,462 - INFO - Extracted FAQ - Question: What is the validity period of a license?, Section: Import & Export FAQs
+2024-10-08 10:53:43,470 - INFO - Extracted FAQ - Question: Is the Licenser renewal process automatic?, Section: Import & Export FAQs
+2024-10-08 10:53:43,478 - INFO - Extracted FAQ - Question: Is there a fee payable for the license?, Section: Import & Export FAQs
+2024-10-08 10:53:43,484 - INFO - Extracted FAQ - Question: What will happen if an agent is involved in illicit activities?, Section: Import & Export FAQs
+2024-10-08 10:53:43,497 - INFO - Extracted FAQ - Question: What are the obligations of an agent to the Commissioner?, Section: Import & Export FAQs
+2024-10-08 10:53:43,504 - INFO - Extracted FAQ - Question: What are the obligations of the client to the agent?, Section: Import & Export FAQs
+2024-10-08 10:53:43,510 - INFO - Extracted FAQ - Question: What are the requirements and conditions for licensing of customs agents?, Section: Import & Export FAQs
+2024-10-08 10:53:43,516 - INFO - Extracted FAQ - Question: , Section: Import & Export FAQs
+2024-10-08 10:53:43,525 - INFO - Extracted FAQ - Question: What is cargo consolidation?, Section: Import & Export FAQs
+2024-10-08 10:53:43,531 - INFO - Extracted FAQ - Question: Who are cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:53:43,538 - INFO - Extracted FAQ - Question: Is there an association that brings together cargo consolidators in Uganda?, Section: Import & Export FAQs
+2024-10-08 10:53:43,544 - INFO - Extracted FAQ - Question: What is expected of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:53:43,551 - INFO - Extracted FAQ - Question: What is the role of the UCCA?, Section: Import & Export FAQs
+2024-10-08 10:53:43,557 - INFO - Extracted FAQ - Question: What measures have been put in place by UCCA to eliminate imposters, fraudsters, illegal fees, and any form of manipulation of groupage cargo importers?, Section: Import & Export FAQs
+2024-10-08 10:53:43,564 - INFO - Extracted FAQ - Question: What	are	the	benefits	of	cargo	consolidation	to	an	importer	or	trader?, Section: Import & Export FAQs
+2024-10-08 10:53:43,572 - INFO - Extracted FAQ - Question: What are the advantages of employing the services of a cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:53:43,579 - INFO - Extracted FAQ - Question: What are the risks of cargo groupage without the services of a formal cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:53:43,586 - INFO - Extracted FAQ - Question: What are the required import and export documents for cargo groupage?, Section: Import & Export FAQs
+2024-10-08 10:53:43,594 - INFO - Extracted FAQ - Question: What is the customs procedure for clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:53:43,602 - INFO - Extracted FAQ - Question: Are there platforms for resolving issues related to customs clearance of groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:53:43,610 - INFO - Extracted FAQ - Question: What fees are charged when clearing groupage cargo?, Section: Import & Export FAQs
+2024-10-08 10:53:43,618 - INFO - Extracted FAQ - Question: Can an importer pay taxes for their cargo using the cargo consolidator’s Tax Identification	Number	(TIN)?, Section: Import & Export FAQs
+2024-10-08 10:53:43,625 - INFO - Extracted FAQ - Question: Can an importer make customs payments for their goods directly to the cargo consolidator?, Section: Import & Export FAQs
+2024-10-08 10:53:43,632 - INFO - Extracted FAQ - Question: Which illegal activities should a cargo consolidator avoid?, Section: Import & Export FAQs
+2024-10-08 10:53:43,640 - INFO - Extracted FAQ - Question: What happens if a cargo consolidator is involved in illegal activities?, Section: Import & Export FAQs
+2024-10-08 10:53:43,647 - INFO - Extracted FAQ - Question: How do you differentiate between a genuine and a non-genuine consolidator?, Section: Import & Export FAQs
+2024-10-08 10:53:43,656 - INFO - Extracted FAQ - Question: What is the process of consolidating cargo?, Section: Import & Export FAQs
+2024-10-08 10:53:43,663 - INFO - Extracted FAQ - Question: What is a customs bonded warehouse?, Section: Import & Export FAQs
+2024-10-08 10:53:43,672 - INFO - Extracted FAQ - Question: Which items are prohibited from being warehoused?, Section: Import & Export FAQs
+2024-10-08 10:53:43,680 - INFO - Extracted FAQ - Question: What is Single Customs Territory?, Section: Import & Export FAQs
+2024-10-08 10:53:43,689 - INFO - Extracted FAQ - Question: What is SCT all about?, Section: Import & Export FAQs
+2024-10-08 10:53:43,695 - INFO - Extracted FAQ - Question: What are the features of SCT?, Section: Import & Export FAQs
+2024-10-08 10:53:43,703 - INFO - Extracted FAQ - Question: When was the SCT implemented?, Section: Import & Export FAQs
+2024-10-08 10:53:43,710 - INFO - Extracted FAQ - Question: What is the Current status of the SCT implementation?, Section: Import & Export FAQs
+2024-10-08 10:53:43,720 - INFO - Extracted FAQ - Question: What are the benefits from the SCT?, Section: Import & Export FAQs
+2024-10-08 10:53:43,727 - INFO - Extracted FAQ - Question: Which Countries are involved in the SCT?, Section: Import & Export FAQs
+2024-10-08 10:53:43,735 - INFO - Extracted FAQ - Question: Will importing/destination Partner states deploy officials at the first points of entry?, Section: Import & Export FAQs
+2024-10-08 10:53:43,744 - INFO - Extracted FAQ - Question: Who are the key stakeholders in the SCT clearance Processes?, Section: Import & Export FAQs
+2024-10-08 10:53:43,754 - INFO - Extracted FAQ - Question: Are there any requirements for stakeholder to transact under the SCT?, Section: Import & Export FAQs
+2024-10-08 10:53:43,763 - INFO - Extracted FAQ - Question: Shall the Customs/ Clearing Agents involved in the clearance process be required to relocate to Mombasa and/or Dar es Salaam as first points of entry respectively?, Section: Import & Export FAQs
+2024-10-08 10:53:43,774 - INFO - Extracted FAQ - Question: What is Mutual Recognition of Customs/Clearing Agents?, Section: Import & Export FAQs
+2024-10-08 10:53:43,774 - INFO - Extracted 56 FAQs from section: Import & Export FAQs
+2024-10-08 10:53:43,884 - INFO - WebDriver closed.

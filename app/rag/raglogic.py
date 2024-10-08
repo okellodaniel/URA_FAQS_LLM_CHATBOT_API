@@ -94,7 +94,7 @@ def elastic_search_hybrid(
         "knn": knn_query,
         "query": keyword_query,
         "size": 5,
-        "_source": ["answer", "section", "question", "id"],
+        "_source": ["answer", "section", "question","id"],
     }
 
     try:

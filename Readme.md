@@ -41,8 +41,8 @@ ___
 ### Getting Started
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone git@github.com:okellodaniel/URA_Faq_llm_Chatbot_API.git
+cd URA_Faq_llm_Chatbot_API
 
 ```
 2. Setup a virtual environment for the project
@@ -105,10 +105,14 @@ The django Rest Framework application API. This contains
 
 #### scripts
 - [scrapper.py](.scrapper.py) - Contains the logic for scrapping FAQ data off the URA website
+- [rag.py](./scripts/rag.py) - Script for indexing the faqs data.
+- [azure_storage_file_downloader.py](./scripts/azure_storage_file_downloader.py) - Script for downloading project data files into the `data` directory.
+- [azure_storage_uploader.py](./scripts/azure_storage_uploader.py) - Script for uploading project data files into an azure blob container.
 ___
 ### Running Application
 
-The application functionality is currently set to run locally on (bare metal), starting with installing the application requirements, the neccessary files required, and running the dockerised application 
+The application functionality is currently set to run locally on (bare metal), starting with installing the application requirements, the neccessary files required, and running the dockerised application.
+
 ___
 ### Retrieval evaluation
 For retrieval evaluation,below are the metrics 
