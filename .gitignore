@@ -1,0 +1,7 @@
+/venv/*
+/data/ura_faqs*
+/data/.ipynb*
+/rag/.ipynb*
+/rag/faqs*
+/data/*
+app/app/.env
