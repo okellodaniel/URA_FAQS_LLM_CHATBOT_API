@@ -494,3 +494,7 @@ ORDER BY
   "avg_response_time" ASC
 
 ```
+
+## Acknowledgements
+___
+I would like to extend my gratitude to the DataTalks Club team for their invaluable efforts in providing the foundational knowledge that enabled the development of this RAG application.
