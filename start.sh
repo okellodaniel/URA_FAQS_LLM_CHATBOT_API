@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export $(grep -v '^#' /path/to/your/.env | xargs)
+export $(grep -v '^#' .env | xargs)
 
 python azure_downloader.py
 

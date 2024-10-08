@@ -4,4 +4,4 @@
 /rag/.ipynb*
 /rag/faqs*
 /data/*
-app/app/.env
+.env
