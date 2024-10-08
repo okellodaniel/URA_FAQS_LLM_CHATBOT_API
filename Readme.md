@@ -82,6 +82,9 @@ MODEL_NAME=multi-qa-MiniLM-L6-cos-v1
 INDEX_NAME=ura_faqs
 
 OPENAI_API_KEY=<Your-open-ai-key>
+
+AZURE_STORAGE_CONN_STRING="<reachout-for-conn-string>"
+AZURE_STORAGE_CONTAINER="urafaqs"
 ```
 6. Install Postman
 - [Download](https://dl.pstmn.io/download/latest/)
