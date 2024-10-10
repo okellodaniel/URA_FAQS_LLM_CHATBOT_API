@@ -104,7 +104,7 @@ INDEX_NAME=ura_faqs
 OPENAI_API_KEY=<Your-openai-key>
 
 # Azure Storage Configuration
-AZURE_STORAGE_CONN_STRING=[here](https://docs.google.com/document/d/1b_CjXZxNcm_ZcGvWHLd_7V882U9p0cloBIURlzSPgVo/edit?usp=sharing)
+AZURE_STORAGE_CONN_STRING= [here](https://docs.google.com/document/d/1b_CjXZxNcm_ZcGvWHLd_7V882U9p0cloBIURlzSPgVo/edit?usp=sharing)
 AZURE_STORAGE_CONTAINER="urafaqs"
 ```
 
